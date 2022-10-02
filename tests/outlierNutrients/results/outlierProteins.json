@@ -1,0 +1,214 @@
+[
+  {
+    "description": "Uva, suco concentrado, envasado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "Tr",
+    "proteinUnit": "g",
+    "carbs": 14.708,
+    "carbUnit": "g",
+    "fats": "Tr",
+    "fatUnit": "g"
+  },
+  {
+    "description": "Azeite, de dendê",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "NA",
+    "proteinUnit": "g",
+    "carbs": "NA",
+    "carbUnit": "g",
+    "fats": 100,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Azeite, de oliva, extra virgem",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "NA",
+    "proteinUnit": "g",
+    "carbs": "NA",
+    "carbUnit": "g",
+    "fats": 100,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Margarina, com óleo hidrogenado, com sal (65% de lipídeos)",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "Tr",
+    "proteinUnit": "g",
+    "fats": 67.4343333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Margarina, com óleo hidrogenado, sem sal (80% de lipídeos)",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "Tr",
+    "proteinUnit": "g",
+    "fats": 81.7336666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Margarina, com óleo interesterificado, com sal (65%de lipídeos)",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "Tr",
+    "proteinUnit": "g",
+    "fats": 67.2456666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Margarina, com óleo interesterificado, sem sal (65% de lipídeos)",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "Tr",
+    "proteinUnit": "g",
+    "fats": 67.097,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Óleo, de babaçu",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "NA",
+    "proteinUnit": "g",
+    "carbs": "NA",
+    "carbUnit": "g",
+    "fats": 100,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Óleo, de canola",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "NA",
+    "proteinUnit": "g",
+    "carbs": "NA",
+    "carbUnit": "g",
+    "fats": 100,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Óleo, de girassol",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "NA",
+    "proteinUnit": "g",
+    "carbs": "NA",
+    "carbUnit": "g",
+    "fats": 100,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Óleo, de milho",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "NA",
+    "proteinUnit": "g",
+    "carbs": "NA",
+    "carbUnit": "g",
+    "fats": 100,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Óleo, de pequi",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "NA",
+    "proteinUnit": "g",
+    "carbs": "NA",
+    "carbUnit": "g",
+    "fats": 100,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Óleo, de soja",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "NA",
+    "proteinUnit": "g",
+    "carbs": "NA",
+    "carbUnit": "g",
+    "fats": 100,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Iogurte, sabor abacaxi",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "*",
+    "proteinUnit": "g",
+    "carbs": "*",
+    "carbUnit": "g",
+    "fats": "*",
+    "fatUnit": "g"
+  },
+  {
+    "description": "Leite, de vaca, desnatado, UHT",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "*",
+    "proteinUnit": "g",
+    "carbs": "*",
+    "carbUnit": "g",
+    "fats": "*",
+    "fatUnit": "g"
+  },
+  {
+    "description": "Leite, de vaca, integral",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "*",
+    "proteinUnit": "g",
+    "carbs": "*",
+    "carbUnit": "g",
+    "fats": "*",
+    "fatUnit": "g"
+  },
+  {
+    "description": "Cana, caldo de",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "Tr",
+    "proteinUnit": "g",
+    "carbs": 18.151,
+    "carbUnit": "g",
+    "fats": "Tr",
+    "fatUnit": "g"
+  },
+  {
+    "description": "Sal, dietético",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "NA",
+    "proteinUnit": "g",
+    "carbs": "NA",
+    "carbUnit": "g",
+    "fats": "NA",
+    "fatUnit": "g"
+  },
+  {
+    "description": "Sal, grosso",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "NA",
+    "proteinUnit": "g",
+    "carbs": "NA",
+    "carbUnit": "g",
+    "fats": "NA",
+    "fatUnit": "g"
+  },
+  {
+    "description": "Coco, verde, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "*",
+    "proteinUnit": "g",
+    "carbs": "*",
+    "carbUnit": "g",
+    "fats": "*",
+    "fatUnit": "g"
+  }
+]
