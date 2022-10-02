@@ -13,6 +13,12 @@ function resolveOutlierUnits(unit) {
   else return unit;
 }
 
+function resolveOutlierEnergy(energy) {
+  if (typeof energy === "number") return energy;
+  if (energy === "NA") return 0;
+  if (energy === "*") return energy;
+}
+
 let reworkedFoodList = foodList.map((food) => {
   return {
     description: food.description,
@@ -24,6 +30,7 @@ let reworkedFoodList = foodList.map((food) => {
     carbUnit: resolveOutlierUnits(food.attributes.carbohydrate?.unit),
     fats: resolveOutlierQty(food.attributes.lipid?.qty),
     fatUnit: resolveOutlierUnits(food.attributes.lipid?.unit),
+    kcals: resolveOutlierEnergy(food.attributes.energy.kcal),
   };
 });
 

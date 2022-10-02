@@ -8,7 +8,8 @@
     "carbs": 25.80975,
     "carbUnit": "g",
     "fats": 1.00033333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 123.5348925
   },
   {
     "description": "Arroz, integral, cru",
@@ -19,7 +20,8 @@
     "carbs": 77.4507141304348,
     "carbUnit": "g",
     "fats": 1.86483333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 359.678002032609
   },
   {
     "description": "Arroz, tipo 1, cozido",
@@ -30,7 +32,8 @@
     "carbs": 28.05985,
     "carbUnit": "g",
     "fats": 0.227,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 128.258485666667
   },
   {
     "description": "Arroz, tipo 1, cru",
@@ -41,7 +44,8 @@
     "carbs": 78.7595434782609,
     "carbUnit": "g",
     "fats": 0.335,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 357.789273115942
   },
   {
     "description": "Arroz, tipo 2, cozido",
@@ -52,7 +56,8 @@
     "carbs": 28.1925833333333,
     "carbUnit": "g",
     "fats": 0.361666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 130.119648333333
   },
   {
     "description": "Arroz, tipo 2, cru",
@@ -63,7 +68,8 @@
     "carbs": 78.8814503623188,
     "carbUnit": "g",
     "fats": 0.2755,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 358.116761456522
   },
   {
     "description": "Aveia, flocos, crua",
@@ -74,7 +80,8 @@
     "carbs": 66.6356405797102,
     "carbUnit": "g",
     "fats": 8.49666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 393.822689449275
   },
   {
     "description": "Biscoito, doce, maisena",
@@ -85,7 +92,8 @@
     "carbs": 75.2341449275362,
     "carbUnit": "g",
     "fats": 11.9666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 442.819390144928
   },
   {
     "description": "Biscoito, doce, recheado com chocolate",
@@ -96,7 +104,8 @@
     "carbs": 70.5494492753623,
     "carbUnit": "g",
     "fats": 19.5833333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 471.824779710145
   },
   {
     "description": "Biscoito, doce, recheado com morango",
@@ -107,7 +116,8 @@
     "carbs": 71.0135072463768,
     "carbUnit": "g",
     "fats": 19.5733333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 471.174736231884
   },
   {
     "description": "Biscoito, doce, wafer, recheado de chocolate",
@@ -118,7 +128,8 @@
     "carbs": 67.5354782608696,
     "carbUnit": "g",
     "fats": 24.6733333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 502.456857971014
   },
   {
     "description": "Biscoito, doce, wafer, recheado de morango",
@@ -129,7 +140,8 @@
     "carbs": 67.3529565217391,
     "carbUnit": "g",
     "fats": 26.4,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 513.446182608696
   },
   {
     "description": "Biscoito, salgado, cream cracker",
@@ -140,7 +152,8 @@
     "carbs": 68.7315362318841,
     "carbUnit": "g",
     "fats": 14.4366666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 431.73228115942
   },
   {
     "description": "Bolo, mistura para",
@@ -151,7 +164,8 @@
     "carbs": 84.7139130434783,
     "carbUnit": "g",
     "fats": 6.12666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 418.633333333333
   },
   {
     "description": "Bolo, pronto, aipim",
@@ -162,7 +176,8 @@
     "carbs": 47.864,
     "carbUnit": "g",
     "fats": 12.7476666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 323.851666666667
   },
   {
     "description": "Bolo, pronto, chocolate",
@@ -173,7 +188,8 @@
     "carbs": 54.71775,
     "carbUnit": "g",
     "fats": 18.4723333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 410.013666666667
   },
   {
     "description": "Bolo, pronto, coco",
@@ -184,7 +200,8 @@
     "carbs": 52.276,
     "carbUnit": "g",
     "fats": 11.2963333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 333.437666666667
   },
   {
     "description": "Bolo, pronto, milho",
@@ -195,7 +212,8 @@
     "carbs": 45.1088333333333,
     "carbUnit": "g",
     "fats": 12.415,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 311.387
   },
   {
     "description": "Canjica, branca, crua",
@@ -206,7 +224,8 @@
     "carbs": 78.061,
     "carbUnit": "g",
     "fats": 0.971,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 357.60259
   },
   {
     "description": "Canjica, com leite integral",
@@ -217,7 +236,8 @@
     "carbs": 23.6277332909902,
     "carbUnit": "g",
     "fats": 1.24433333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 112.456777220465
   },
   {
     "description": "Cereais, milho, flocos, com sal",
@@ -228,7 +248,8 @@
     "carbs": 80.835,
     "carbUnit": "g",
     "fats": 1.60333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 369.59975
   },
   {
     "description": "Cereais, milho, flocos, sem sal",
@@ -239,7 +260,8 @@
     "carbs": 80.4483333333333,
     "carbUnit": "g",
     "fats": 1.18333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 363.338316666667
   },
   {
     "description": "Cereais, mingau, milho, infantil",
@@ -250,7 +272,8 @@
     "carbs": 87.2655072463768,
     "carbUnit": "g",
     "fats": 1.09333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 394.42752173913
   },
   {
     "description": "Cereais, mistura para vitamina, trigo, cevada e aveia",
@@ -261,7 +284,8 @@
     "carbs": 81.6175,
     "carbUnit": "g",
     "fats": 2.12,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 381.133333333333
   },
   {
     "description": "Cereal matinal, milho",
@@ -272,7 +296,8 @@
     "carbs": 83.8242028985507,
     "carbUnit": "g",
     "fats": 0.956666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 365.354163768116
   },
   {
     "description": "Cereal matinal, milho, açúcar",
@@ -283,7 +308,8 @@
     "carbs": 88.8405797101449,
     "carbUnit": "g",
     "fats": 0.666666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 376.555253623188
   },
   {
     "description": "Creme de arroz, pó",
@@ -294,7 +320,8 @@
     "carbs": 83.8693835585912,
     "carbUnit": "g",
     "fats": 1.226,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 386.001190336398
   },
   {
     "description": "Creme de milho, pó",
@@ -305,7 +332,8 @@
     "carbs": 86.1485,
     "carbUnit": "g",
     "fats": 1.63933333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 333.034192670544
   },
   {
     "description": "Curau, milho verde",
@@ -316,7 +344,8 @@
     "carbs": 13.9443999576569,
     "carbUnit": "g",
     "fats": 1.637,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 78.4338183136559
   },
   {
     "description": "Curau, milho verde, mistura para",
@@ -327,7 +356,8 @@
     "carbs": 79.8164166666667,
     "carbUnit": "g",
     "fats": 13.3713333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 402.286577435315
   },
   {
     "description": "Farinha, de arroz, enriquecida",
@@ -338,7 +368,8 @@
     "carbs": 85.5040000406901,
     "carbUnit": "g",
     "fats": 0.3,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 363.056480181224
   },
   {
     "description": "Farinha, de centeio, integral",
@@ -349,7 +380,8 @@
     "carbs": 73.2982668304443,
     "carbUnit": "g",
     "fats": 1.75333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 335.777662799327
   },
   {
     "description": "Farinha, de milho, amarela",
@@ -360,7 +392,8 @@
     "carbs": 79.0791666666667,
     "carbUnit": "g",
     "fats": 1.46666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 350.58693322738
   },
   {
     "description": "Farinha, de rosca",
@@ -371,7 +404,8 @@
     "carbs": 75.7856666666667,
     "carbUnit": "g",
     "fats": 1.46333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 370.578096666667
   },
   {
     "description": "Farinha, de trigo",
@@ -382,7 +416,8 @@
     "carbs": 75.0925507246377,
     "carbUnit": "g",
     "fats": 1.36666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 360.472978550725
   },
   {
     "description": "Farinha, láctea, de cereais",
@@ -393,7 +428,8 @@
     "carbs": 77.7708695652174,
     "carbUnit": "g",
     "fats": 5.79,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 414.850517391304
   },
   {
     "description": "Lasanha, massa fresca, cozida",
@@ -404,7 +440,8 @@
     "carbs": 32.5221666666667,
     "carbUnit": "g",
     "fats": 1.15833333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 163.763666666667
   },
   {
     "description": "Lasanha, massa fresca, crua",
@@ -415,7 +452,8 @@
     "carbs": 45.0583333333333,
     "carbUnit": "g",
     "fats": 1.33766666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 220.305666666667
   },
   {
     "description": "Macarrão, instantâneo",
@@ -426,7 +464,8 @@
     "carbs": 62.4316533333333,
     "carbUnit": "g",
     "fats": 17.2366666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 435.864780533333
   },
   {
     "description": "Macarrão, trigo, cru",
@@ -437,7 +476,8 @@
     "carbs": 77.944347826087,
     "carbUnit": "g",
     "fats": 1.30333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 371.122613043478
   },
   {
     "description": "Macarrão, trigo, cru, com ovos",
@@ -448,7 +488,8 @@
     "carbs": 76.6225333333334,
     "carbUnit": "g",
     "fats": 1.97,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 370.567113333333
   },
   {
     "description": "Milho, amido, cru",
@@ -459,7 +500,8 @@
     "carbs": 87.1488439130435,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 361.366823878261
   },
   {
     "description": "Milho, fubá, cru",
@@ -470,7 +512,8 @@
     "carbs": 78.8728985507246,
     "carbUnit": "g",
     "fats": 1.90333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 353.482268115942
   },
   {
     "description": "Milho, verde, cru",
@@ -481,7 +524,8 @@
     "carbs": 28.55575,
     "carbUnit": "g",
     "fats": 0.609,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 138.166565
   },
   {
     "description": "Milho, verde, enlatado, drenado",
@@ -492,7 +536,8 @@
     "carbs": 17.1350724637681,
     "carbUnit": "g",
     "fats": 2.35333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 97.5648942028985
   },
   {
     "description": "Mingau tradicional, pó",
@@ -503,7 +548,8 @@
     "carbs": 89.3366666666667,
     "carbUnit": "g",
     "fats": 0.37,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 373.421466666667
   },
   {
     "description": "Pamonha, barra para cozimento, pré-cozida",
@@ -514,7 +560,8 @@
     "carbs": 30.6849166666667,
     "carbUnit": "g",
     "fats": 4.84966666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 171.219111666667
   },
   {
     "description": "Pão, aveia, forma",
@@ -525,7 +572,8 @@
     "carbs": 59.5666666666667,
     "carbUnit": "g",
     "fats": 5.69333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 343.085366666667
   },
   {
     "description": "Pão, de soja",
@@ -536,7 +584,8 @@
     "carbs": 56.5103333333333,
     "carbUnit": "g",
     "fats": 3.58,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 308.726323333333
   },
   {
     "description": "Pão, glúten, forma",
@@ -547,7 +596,8 @@
     "carbs": 44.119,
     "carbUnit": "g",
     "fats": 2.72666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 252.99403
   },
   {
     "description": "Pão, milho, forma",
@@ -558,7 +608,8 @@
     "carbs": 56.397,
     "carbUnit": "g",
     "fats": 3.11,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 292.01349
   },
   {
     "description": "Pão, trigo, forma, integral",
@@ -569,7 +620,8 @@
     "carbs": 49.9415,
     "carbUnit": "g",
     "fats": 3.65333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 253.193618333333
   },
   {
     "description": "Pão, trigo, francês",
@@ -580,7 +632,8 @@
     "carbs": 58.6464347826087,
     "carbUnit": "g",
     "fats": 3.10333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 299.810150434783
   },
   {
     "description": "Pão, trigo, sovado",
@@ -591,7 +644,8 @@
     "carbs": 61.452,
     "carbUnit": "g",
     "fats": 2.84,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 310.96494
   },
   {
     "description": "Pastel, de carne, cru",
@@ -602,7 +656,8 @@
     "carbs": 42.0166336927414,
     "carbUnit": "g",
     "fats": 8.793,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 288.70207151599
   },
   {
     "description": "Pastel, de carne, frito",
@@ -613,7 +668,8 @@
     "carbs": 43.7678003381093,
     "carbUnit": "g",
     "fats": 20.1366666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 388.374651624968
   },
   {
     "description": "Pastel, de queijo, cru",
@@ -624,7 +680,8 @@
     "carbs": 45.9479336630503,
     "carbUnit": "g",
     "fats": 9.63466666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 308.474433887374
   },
   {
     "description": "Pastel, de queijo, frito",
@@ -635,7 +692,8 @@
     "carbs": 48.1327336247762,
     "carbUnit": "g",
     "fats": 22.6703333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 422.112080039319
   },
   {
     "description": "Pastel, massa, crua",
@@ -646,7 +704,8 @@
     "carbs": 57.3796333333333,
     "carbUnit": "g",
     "fats": 5.477,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 310.202514333333
   },
   {
     "description": "Pastel, massa, frita",
@@ -657,7 +716,8 @@
     "carbs": 49.3431333333333,
     "carbUnit": "g",
     "fats": 40.8603333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 569.672459333333
   },
   {
     "description": "Pipoca, com óleo de soja, sem sal",
@@ -668,7 +728,8 @@
     "carbs": 70.3125833333333,
     "carbUnit": "g",
     "fats": 15.941,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 448.334261847198
   },
   {
     "description": "Polenta, pré-cozida",
@@ -679,7 +740,8 @@
     "carbs": 23.3116666666667,
     "carbUnit": "g",
     "fats": 0.303333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 102.741166666667
   },
   {
     "description": "Torrada, pão francês",
@@ -690,7 +752,8 @@
     "carbs": 74.5559,
     "carbUnit": "g",
     "fats": 3.301,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 377.422283
   },
   {
     "description": "Abóbora, cabotian, cozida",
@@ -701,7 +764,8 @@
     "carbs": 10.7609166666667,
     "carbUnit": "g",
     "fats": 0.729333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 48.0437425
   },
   {
     "description": "Abóbora, cabotian, crua",
@@ -712,7 +776,8 @@
     "carbs": 8.36028985507247,
     "carbUnit": "g",
     "fats": 0.536666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 38.5992942028986
   },
   {
     "description": "Abóbora, menina brasileira, crua",
@@ -723,7 +788,8 @@
     "carbs": 3.30130434782609,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 13.6056739130435
   },
   {
     "description": "Abóbora, moranga, crua",
@@ -734,7 +800,8 @@
     "carbs": 2.66652173913043,
     "carbUnit": "g",
     "fats": 0.06,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 12.364436231884
   },
   {
     "description": "Abóbora, moranga, refogada",
@@ -745,7 +812,8 @@
     "carbs": 5.98191666666666,
     "carbUnit": "g",
     "fats": 0.799,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 29.0038220317562
   },
   {
     "description": "Abóbora, pescoço, crua",
@@ -756,7 +824,8 @@
     "carbs": 6.12283333333334,
     "carbUnit": "g",
     "fats": 0.116,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 24.4662679497004
   },
   {
     "description": "Abobrinha, italiana, cozida",
@@ -767,7 +836,8 @@
     "carbs": 2.97700000000001,
     "carbUnit": "g",
     "fats": 0.199,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 15.03852
   },
   {
     "description": "Abobrinha, italiana, crua",
@@ -778,7 +848,8 @@
     "carbs": 4.29202898550724,
     "carbUnit": "g",
     "fats": 0.14,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 19.2791260869565
   },
   {
     "description": "Abobrinha, italiana, refogada",
@@ -789,7 +860,8 @@
     "carbs": 4.18691666666666,
     "carbUnit": "g",
     "fats": 0.821333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 24.4296021876534
   },
   {
     "description": "Abobrinha, paulista, crua",
@@ -800,7 +872,8 @@
     "carbs": 7.86742,
     "carbUnit": "g",
     "fats": 0.139,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 30.8107022288163
   },
   {
     "description": "Acelga, crua",
@@ -811,7 +884,8 @@
     "carbs": 4.63091666666666,
     "carbUnit": "g",
     "fats": 0.106,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 20.9423424999999
   },
   {
     "description": "Agrião, cru",
@@ -822,7 +896,8 @@
     "carbs": 2.25159420289854,
     "carbUnit": "g",
     "fats": 0.236666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 16.5788014492753
   },
   {
     "description": "Aipo, cru",
@@ -833,7 +908,8 @@
     "carbs": 4.27233333333335,
     "carbUnit": "g",
     "fats": 0.069,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 19.0914566449706
   },
   {
     "description": "Alface, americana, crua",
@@ -844,7 +920,8 @@
     "carbs": 1.74533333333335,
     "carbUnit": "g",
     "fats": 0.129,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 8.79490323686605
   },
   {
     "description": "Alface, crespa, crua",
@@ -855,7 +932,8 @@
     "carbs": 1.69550724637683,
     "carbUnit": "g",
     "fats": 0.16,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 10.6808565217392
   },
   {
     "description": "Alface, lisa, crua",
@@ -866,7 +944,8 @@
     "carbs": 2.42826086956522,
     "carbUnit": "g",
     "fats": 0.123333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 13.8209014492753
   },
   {
     "description": "Alface, roxa, crua",
@@ -877,7 +956,8 @@
     "carbs": 2.49341666666666,
     "carbUnit": "g",
     "fats": 0.191666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 12.716997363468
   },
   {
     "description": "Alfavaca, crua",
@@ -888,7 +968,8 @@
     "carbs": 5.241,
     "carbUnit": "g",
     "fats": 0.476333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 29.1836130810579
   },
   {
     "description": "Alho, cru",
@@ -899,7 +980,8 @@
     "carbs": 23.9057971014493,
     "carbUnit": "g",
     "fats": 0.22,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 113.12987826087
   },
   {
     "description": "Alho-poró, cru",
@@ -910,7 +992,8 @@
     "carbs": 6.87816666666667,
     "carbUnit": "g",
     "fats": 0.139666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 31.5079193532467
   },
   {
     "description": "Almeirão, cru",
@@ -921,7 +1004,8 @@
     "carbs": 3.33521739130435,
     "carbUnit": "g",
     "fats": 0.216666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 18.0344289855072
   },
   {
     "description": "Almeirão, refogado",
@@ -932,7 +1016,8 @@
     "carbs": 5.70149999999999,
     "carbUnit": "g",
     "fats": 4.847,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 65.0819108288685
   },
   {
     "description": "Batata, baroa, cozida",
@@ -943,7 +1028,8 @@
     "carbs": 18.9475833333333,
     "carbUnit": "g",
     "fats": 0.166333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 80.1197625
   },
   {
     "description": "Batata, baroa, crua",
@@ -954,7 +1040,8 @@
     "carbs": 23.9828985507246,
     "carbUnit": "g",
     "fats": 0.17,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 100.984923188406
   },
   {
     "description": "Batata, doce, cozida",
@@ -965,7 +1052,8 @@
     "carbs": 18.4223333333333,
     "carbUnit": "g",
     "fats": 0.087666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 76.7596105034352
   },
   {
     "description": "Batata, doce, crua",
@@ -976,7 +1064,8 @@
     "carbs": 28.1960869565217,
     "carbUnit": "g",
     "fats": 0.133333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 118.241375362319
   },
   {
     "description": "Batata, frita, tipo chips, industrializada",
@@ -987,7 +1076,8 @@
     "carbs": 51.2223333333333,
     "carbUnit": "g",
     "fats": 36.615,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 542.73467338419
   },
   {
     "description": "Batata, inglesa, cozida",
@@ -998,7 +1088,8 @@
     "carbs": 11.94375,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 51.5884766362707
   },
   {
     "description": "Batata, inglesa, crua",
@@ -1009,7 +1100,8 @@
     "carbs": 14.6882608695652,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 64.3702260869565
   },
   {
     "description": "Batata, inglesa, frita",
@@ -1020,7 +1112,8 @@
     "carbs": 35.6403333333333,
     "carbUnit": "g",
     "fats": 13.1086666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 267.157422502041
   },
   {
     "description": "Batata, inglesa, sauté",
@@ -1031,7 +1124,8 @@
     "carbs": 14.093,
     "carbUnit": "g",
     "fats": 0.896333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 67.8879361506303
   },
   {
     "description": "Berinjela, cozida",
@@ -1042,7 +1136,8 @@
     "carbs": 4.46825,
     "carbUnit": "g",
     "fats": 0.148333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 18.8452855568131
   },
   {
     "description": "Berinjela, crua",
@@ -1053,7 +1148,8 @@
     "carbs": 4.42898550724637,
     "carbUnit": "g",
     "fats": 0.1,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 19.6277536231884
   },
   {
     "description": "Beterraba, cozida",
@@ -1064,7 +1160,8 @@
     "carbs": 7.23491666666666,
     "carbUnit": "g",
     "fats": 0.092666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 32.1543243314028
   },
   {
     "description": "Beterraba, crua",
@@ -1075,7 +1172,8 @@
     "carbs": 11.1110144927536,
     "carbUnit": "g",
     "fats": 0.09,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 48.8285086956522
   },
   {
     "description": "Biscoito, polvilho doce",
@@ -1086,7 +1184,8 @@
     "carbs": 80.5353333333333,
     "carbUnit": "g",
     "fats": 12.249,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 437.549
   },
   {
     "description": "Brócolis, cozido",
@@ -1097,7 +1196,8 @@
     "carbs": 4.36666666666666,
     "carbUnit": "g",
     "fats": 0.459,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 24.6361631113688
   },
   {
     "description": "Brócolis, cru",
@@ -1108,7 +1208,8 @@
     "carbs": 4.02507246376812,
     "carbUnit": "g",
     "fats": 0.266666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 25.495131884058
   },
   {
     "description": "Cará, cozido",
@@ -1119,7 +1220,8 @@
     "carbs": 18.8525,
     "carbUnit": "g",
     "fats": 0.112333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 77.5849133333334
   },
   {
     "description": "Cará, cru",
@@ -1130,7 +1232,8 @@
     "carbs": 22.9540579710145,
     "carbUnit": "g",
     "fats": 0.136666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 95.6331347826087
   },
   {
     "description": "Caruru, cru",
@@ -1141,7 +1244,8 @@
     "carbs": 5.97399999999999,
     "carbUnit": "g",
     "fats": 0.585,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 34.03162971735
   },
   {
     "description": "Catalonha, crua",
@@ -1152,7 +1256,8 @@
     "carbs": 4.75224999999999,
     "carbUnit": "g",
     "fats": 0.282333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 23.8884122573733
   },
   {
     "description": "Catalonha, refogada",
@@ -1163,7 +1268,8 @@
     "carbs": 4.80933333333334,
     "carbUnit": "g",
     "fats": 4.80566666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 63.4492691488266
   },
   {
     "description": "Cebola, crua",
@@ -1174,7 +1280,8 @@
     "carbs": 8.8531884057971,
     "carbUnit": "g",
     "fats": 0.08,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 39.4200463768116
   },
   {
     "description": "Cebolinha, crua",
@@ -1185,7 +1292,8 @@
     "carbs": 3.37072463768117,
     "carbUnit": "g",
     "fats": 0.35,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 19.5158855072464
   },
   {
     "description": "Cenoura, cozida",
@@ -1196,7 +1304,8 @@
     "carbs": 6.68674999999999,
     "carbUnit": "g",
     "fats": 0.218333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 29.8617777101596
   },
   {
     "description": "Cenoura, crua",
@@ -1207,7 +1316,8 @@
     "carbs": 7.66,
     "carbUnit": "g",
     "fats": 0.173333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 34.1353884057971
   },
   {
     "description": "Chicória, crua",
@@ -1218,7 +1328,8 @@
     "carbs": 2.85333333333334,
     "carbUnit": "g",
     "fats": 0.143333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 13.8371202898551
   },
   {
     "description": "Chuchu, cozido",
@@ -1229,7 +1340,8 @@
     "carbs": 4.79341666666667,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 18.539790531377
   },
   {
     "description": "Chuchu, cru",
@@ -1240,7 +1352,8 @@
     "carbs": 4.13739130434783,
     "carbUnit": "g",
     "fats": 0.06,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 16.9789188405797
   },
   {
     "description": "Coentro, folhas desidratadas",
@@ -1251,7 +1364,8 @@
     "carbs": 47.955,
     "carbUnit": "g",
     "fats": 10.3866666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 309.070746804476
   },
   {
     "description": "Couve, manteiga, crua",
@@ -1262,7 +1376,8 @@
     "carbs": 4.33347826086956,
     "carbUnit": "g",
     "fats": 0.546666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 27.0566971014493
   },
   {
     "description": "Couve, manteiga, refogada",
@@ -1273,7 +1388,8 @@
     "carbs": 8.70766666666667,
     "carbUnit": "g",
     "fats": 6.594,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 90.3448154261112
   },
   {
     "description": "Couve-flor, crua",
@@ -1284,7 +1400,8 @@
     "carbs": 4.51753623188406,
     "carbUnit": "g",
     "fats": 0.213333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 22.5633492753623
   },
   {
     "description": "Couve-flor, cozida",
@@ -1295,7 +1412,8 @@
     "carbs": 3.87541666666668,
     "carbUnit": "g",
     "fats": 0.269333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 19.1141406147282
   },
   {
     "description": "Espinafre, Nova Zelândia, cru",
@@ -1306,7 +1424,8 @@
     "carbs": 2.5736231884058,
     "carbUnit": "g",
     "fats": 0.243333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 16.0956942028985
   },
   {
     "description": "Espinafre, Nova Zelândia, refogado",
@@ -1317,7 +1436,8 @@
     "carbs": 4.23858333333334,
     "carbUnit": "g",
     "fats": 5.43466666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 67.253651750664
   },
   {
     "description": "Farinha, de mandioca, crua",
@@ -1328,7 +1448,8 @@
     "carbs": 87.8989855072464,
     "carbUnit": "g",
     "fats": 0.276666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 360.869698550725
   },
   {
     "description": "Farinha, de mandioca, torrada",
@@ -1339,7 +1460,8 @@
     "carbs": 89.1941666666667,
     "carbUnit": "g",
     "fats": 0.286666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 365.268975
   },
   {
     "description": "Farinha, de puba",
@@ -1350,7 +1472,8 @@
     "carbs": 87.2853333333333,
     "carbUnit": "g",
     "fats": 0.469,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 360.179774879932
   },
   {
     "description": "Fécula, de mandioca",
@@ -1361,7 +1484,8 @@
     "carbs": 81.1491666666667,
     "carbUnit": "g",
     "fats": 0.283333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 330.850558333333
   },
   {
     "description": "Feijão, broto, cru",
@@ -1372,7 +1496,8 @@
     "carbs": 7.75833333333333,
     "carbUnit": "g",
     "fats": 0.102666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 38.7232363754113
   },
   {
     "description": "Inhame, cru",
@@ -1383,7 +1508,8 @@
     "carbs": 23.2326086956522,
     "carbUnit": "g",
     "fats": 0.213333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 96.699831884058
   },
   {
     "description": "Jiló, cru",
@@ -1394,7 +1520,8 @@
     "carbs": 6.19115942028986,
     "carbUnit": "g",
     "fats": 0.22,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 27.3651434782609
   },
   {
     "description": "Jurubeba, crua",
@@ -1405,7 +1532,8 @@
     "carbs": 23.0591666666667,
     "carbUnit": "g",
     "fats": 3.90966666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 125.811635
   },
   {
     "description": "Mandioca, cozida",
@@ -1416,7 +1544,8 @@
     "carbs": 30.09,
     "carbUnit": "g",
     "fats": 0.298333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 125.35825
   },
   {
     "description": "Mandioca, crua",
@@ -1427,7 +1556,8 @@
     "carbs": 36.1695652173913,
     "carbUnit": "g",
     "fats": 0.3,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 151.416956521739
   },
   {
     "description": "Mandioca, farofa, temperada",
@@ -1438,7 +1568,8 @@
     "carbs": 80.3041666666667,
     "carbUnit": "g",
     "fats": 9.12,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 405.693941666667
   },
   {
     "description": "Mandioca, frita",
@@ -1449,7 +1580,8 @@
     "carbs": 50.2514166666667,
     "carbUnit": "g",
     "fats": 11.195,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 300.05524338915
   },
   {
     "description": "Manjericão, cru",
@@ -1460,7 +1592,8 @@
     "carbs": 3.64449275362319,
     "carbUnit": "g",
     "fats": 0.393333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 21.1476768115942
   },
   {
     "description": "Maxixe, cru",
@@ -1471,7 +1604,8 @@
     "carbs": 2.72869565217391,
     "carbUnit": "g",
     "fats": 0.073,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 13.7472360869565
   },
   {
     "description": "Mostarda, folha, crua",
@@ -1482,7 +1616,8 @@
     "carbs": 3.23658333333333,
     "carbUnit": "g",
     "fats": 0.167666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 18.1073890521725
   },
   {
     "description": "Nhoque, batata, cozido",
@@ -1493,7 +1628,8 @@
     "carbs": 36.78,
     "carbUnit": "g",
     "fats": 1.94333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 180.775273993413
   },
   {
     "description": "Nabo, cru",
@@ -1504,7 +1640,8 @@
     "carbs": 4.14710144927538,
     "carbUnit": "g",
     "fats": 0.053333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 18.1866246376812
   },
   {
     "description": "Palmito, Juçara, em conserva",
@@ -1515,7 +1652,8 @@
     "carbs": 4.32833333333333,
     "carbUnit": "g",
     "fats": 0.403333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 23.1997164340813
   },
   {
     "description": "Palmito, pupunha, em conserva",
@@ -1526,7 +1664,8 @@
     "carbs": 5.509,
     "carbUnit": "g",
     "fats": 0.45,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 29.4319633333333
   },
   {
     "description": "Pão, de queijo, assado",
@@ -1537,7 +1676,8 @@
     "carbs": 34.2415,
     "carbUnit": "g",
     "fats": 24.5673333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 363.077913333333
   },
   {
     "description": "Pão, de queijo, cru",
@@ -1548,7 +1688,8 @@
     "carbs": 38.512,
     "carbUnit": "g",
     "fats": 13.9886666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 294.538
   },
   {
     "description": "Pepino, cru",
@@ -1559,7 +1700,8 @@
     "carbs": 2.03710144927535,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 9.53369130434782
   },
   {
     "description": "Pimentão, amarelo, cru",
@@ -1570,7 +1712,8 @@
     "carbs": 5.96202898550725,
     "carbUnit": "g",
     "fats": 0.436666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 27.9274594202899
   },
   {
     "description": "Pimentão, verde, cru",
@@ -1581,7 +1724,8 @@
     "carbs": 4.89260869565218,
     "carbUnit": "g",
     "fats": 0.15,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 21.2858811594203
   },
   {
     "description": "Pimentão, vermelho, cru",
@@ -1592,7 +1736,8 @@
     "carbs": 5.46681159420291,
     "carbUnit": "g",
     "fats": 0.146666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 23.281363768116
   },
   {
     "description": "Polvilho, doce",
@@ -1603,7 +1748,8 @@
     "carbs": 86.7733333333333,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 351.226733333333
   },
   {
     "description": "Quiabo, cru",
@@ -1614,7 +1760,8 @@
     "carbs": 6.37391666666667,
     "carbUnit": "g",
     "fats": 0.299,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 29.9392621500691
   },
   {
     "description": "Rabanete, cru",
@@ -1625,7 +1772,8 @@
     "carbs": 2.72536231884058,
     "carbUnit": "g",
     "fats": 0.073333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 13.7381260869565
   },
   {
     "description": "Repolho, branco, cru",
@@ -1636,7 +1784,8 @@
     "carbs": 3.85985507246377,
     "carbUnit": "g",
     "fats": 0.143333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 17.1188028985507
   },
   {
     "description": "Repolho, roxo, cru",
@@ -1647,7 +1796,8 @@
     "carbs": 7.204,
     "carbUnit": "g",
     "fats": 0.063666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 30.9075029543241
   },
   {
     "description": "Repolho, roxo, refogado",
@@ -1658,7 +1808,8 @@
     "carbs": 7.56158333333333,
     "carbUnit": "g",
     "fats": 1.24033333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 41.7735252897143
   },
   {
     "description": "Rúcula, crua",
@@ -1669,7 +1820,8 @@
     "carbs": 2.21966666666666,
     "carbUnit": "g",
     "fats": 0.107333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 13.1332566072941
   },
   {
     "description": "Salsa, crua",
@@ -1680,7 +1832,8 @@
     "carbs": 5.70608695652174,
     "carbUnit": "g",
     "fats": 0.61,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 33.4241115942029
   },
   {
     "description": "Seleta de legumes, enlatada",
@@ -1691,7 +1844,8 @@
     "carbs": 12.6697101449275,
     "carbUnit": "g",
     "fats": 0.353333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 56.5337724637681
   },
   {
     "description": "Serralha, crua",
@@ -1702,7 +1856,8 @@
     "carbs": 4.94675,
     "carbUnit": "g",
     "fats": 0.742666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 30.3979341666666
   },
   {
     "description": "Taioba, crua",
@@ -1713,7 +1868,8 @@
     "carbs": 5.43049999999999,
     "carbUnit": "g",
     "fats": 0.926666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 34.2089183333333
   },
   {
     "description": "Tomate, com semente, cru",
@@ -1724,7 +1880,8 @@
     "carbs": 3.13884057971015,
     "carbUnit": "g",
     "fats": 0.173333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 15.3351565217392
   },
   {
     "description": "Tomate, extrato",
@@ -1735,7 +1892,8 @@
     "carbs": 14.9586173913043,
     "carbUnit": "g",
     "fats": 0.19,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 60.9334336521739
   },
   {
     "description": "Tomate, molho industrializado",
@@ -1746,7 +1904,8 @@
     "carbs": 7.71166666666668,
     "carbUnit": "g",
     "fats": 0.903333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 38.4465494604906
   },
   {
     "description": "Tomate, purê",
@@ -1757,7 +1916,8 @@
     "carbs": 6.89434782608695,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 27.9368797101449
   },
   {
     "description": "Tomate, salada",
@@ -1768,7 +1928,8 @@
     "carbs": 5.11791666666666,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 20.5469091666666
   },
   {
     "description": "Vagem, crua",
@@ -1779,7 +1940,8 @@
     "carbs": 5.34710144927536,
     "carbUnit": "g",
     "fats": 0.173333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 24.8983579710145
   },
   {
     "description": "Abacate, cru",
@@ -1790,7 +1952,8 @@
     "carbs": 6.0308695652174,
     "carbUnit": "g",
     "fats": 8.39666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 96.1547086956522
   },
   {
     "description": "Abacaxi, cru",
@@ -1801,7 +1964,8 @@
     "carbs": 12.3346376811594,
     "carbUnit": "g",
     "fats": 0.123333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 48.3222130434782
   },
   {
     "description": "Abacaxi, polpa, congelada",
@@ -1812,7 +1976,8 @@
     "carbs": 7.79866666666666,
     "carbUnit": "g",
     "fats": 0.113333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 30.5917991943359
   },
   {
     "description": "Abiu, cru",
@@ -1823,7 +1988,8 @@
     "carbs": 14.927,
     "carbUnit": "g",
     "fats": 0.703333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 62.4240984085401
   },
   {
     "description": "Açaí, polpa, com xarope de guaraná e glucose",
@@ -1834,7 +2000,8 @@
     "carbs": 21.4551666666667,
     "carbUnit": "g",
     "fats": 3.66033333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 110.29759
   },
   {
     "description": "Açaí, polpa, congelada",
@@ -1845,7 +2012,8 @@
     "carbs": 6.20841666666667,
     "carbUnit": "g",
     "fats": 3.94433333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 58.0453688728213
   },
   {
     "description": "Acerola, crua",
@@ -1856,7 +2024,8 @@
     "carbs": 7.96641666666667,
     "carbUnit": "g",
     "fats": 0.207666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 33.46227
   },
   {
     "description": "Acerola, polpa, congelada",
@@ -1867,7 +2036,8 @@
     "carbs": 5.54133333333333,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 21.9368
   },
   {
     "description": "Ameixa, calda, enlatada",
@@ -1878,7 +2048,8 @@
     "carbs": 46.8926666666667,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 182.84662
   },
   {
     "description": "Ameixa, crua",
@@ -1889,7 +2060,8 @@
     "carbs": 13.8515942028986,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 52.5424826086957
   },
   {
     "description": "Ameixa, em calda, enlatada, drenada",
@@ -1900,7 +2072,8 @@
     "carbs": 47.658,
     "carbUnit": "g",
     "fats": 0.280333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 177.359185315371
   },
   {
     "description": "Atemóia, crua",
@@ -1911,7 +2084,8 @@
     "carbs": 25.3321666666667,
     "carbUnit": "g",
     "fats": 0.300333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 96.9715874479214
   },
   {
     "description": "Banana, da terra, crua",
@@ -1922,7 +2096,8 @@
     "carbs": 33.6652173913044,
     "carbUnit": "g",
     "fats": 0.24,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 128.024452173913
   },
   {
     "description": "Banana, doce em barra",
@@ -1933,7 +2108,8 @@
     "carbs": 75.6665833333333,
     "carbUnit": "g",
     "fats": 0.05,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 280.105192550639
   },
   {
     "description": "Banana, figo, crua",
@@ -1944,7 +2120,8 @@
     "carbs": 27.8044166666667,
     "carbUnit": "g",
     "fats": 0.141666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 105.08265
   },
   {
     "description": "Banana, maçã, crua",
@@ -1955,7 +2132,8 @@
     "carbs": 22.3363768115942,
     "carbUnit": "g",
     "fats": 0.06,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 86.8053304347826
   },
   {
     "description": "Banana, nanica, crua",
@@ -1966,7 +2144,8 @@
     "carbs": 23.848115942029,
     "carbUnit": "g",
     "fats": 0.116666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 91.528847826087
   },
   {
     "description": "Banana, ouro, crua",
@@ -1977,7 +2156,8 @@
     "carbs": 29.3414492753623,
     "carbUnit": "g",
     "fats": 0.21,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 112.366047826087
   },
   {
     "description": "Banana, pacova, crua",
@@ -1988,7 +2168,8 @@
     "carbs": 20.3125833333333,
     "carbUnit": "g",
     "fats": 0.079,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 77.9095279250741
   },
   {
     "description": "Banana, prata, crua",
@@ -1999,7 +2180,8 @@
     "carbs": 25.956884057971,
     "carbUnit": "g",
     "fats": 0.065,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 98.2497021739131
   },
   {
     "description": "Cacau, cru",
@@ -2010,7 +2192,8 @@
     "carbs": 19.4111666666667,
     "carbUnit": "g",
     "fats": 0.144,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 74.29148
   },
   {
     "description": "Cajá-Manga, cru",
@@ -2021,7 +2204,8 @@
     "carbs": 11.4341666666667,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 45.5809687737227
   },
   {
     "description": "Cajá, polpa, congelada",
@@ -2032,7 +2216,8 @@
     "carbs": 6.37441666666666,
     "carbUnit": "g",
     "fats": 0.167666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 26.3322693110506
   },
   {
     "description": "Caju, cru",
@@ -2043,7 +2228,8 @@
     "carbs": 10.2889888405797,
     "carbUnit": "g",
     "fats": 0.33,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 43.0650685217391
   },
   {
     "description": "Caju, polpa, congelada",
@@ -2054,7 +2240,8 @@
     "carbs": 9.35074999999999,
     "carbUnit": "g",
     "fats": 0.154,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 36.56868
   },
   {
     "description": "Caju, suco concentrado, envasado",
@@ -2065,7 +2252,8 @@
     "carbs": 10.7338333333333,
     "carbUnit": "g",
     "fats": 0.2,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 45.1086266666667
   },
   {
     "description": "Caqui, chocolate, cru",
@@ -2076,7 +2264,8 @@
     "carbs": 19.32575,
     "carbUnit": "g",
     "fats": 0.069333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 71.3500181116462
   },
   {
     "description": "Carambola, crua",
@@ -2087,7 +2276,8 @@
     "carbs": 11.4815,
     "carbUnit": "g",
     "fats": 0.177,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 45.7408887934287
   },
   {
     "description": "Ciriguela, crua",
@@ -2098,7 +2288,8 @@
     "carbs": 18.8574166666667,
     "carbUnit": "g",
     "fats": 0.359666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 75.59411
   },
   {
     "description": "Cupuaçu, cru",
@@ -2109,7 +2300,8 @@
     "carbs": 10.4335833333333,
     "carbUnit": "g",
     "fats": 0.951333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 49.4225587743719
   },
   {
     "description": "Cupuaçu, polpa, congelada",
@@ -2120,7 +2312,8 @@
     "carbs": 11.3869166666667,
     "carbUnit": "g",
     "fats": 0.593666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 48.79689
   },
   {
     "description": "Figo, cru",
@@ -2131,7 +2324,8 @@
     "carbs": 10.2459420289855,
     "carbUnit": "g",
     "fats": 0.156666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 41.4471260869565
   },
   {
     "description": "Figo, enlatado, em calda",
@@ -2142,7 +2336,8 @@
     "carbs": 50.3384057971015,
     "carbUnit": "g",
     "fats": 0.15,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 184.360717391304
   },
   {
     "description": "Fruta-pão, crua",
@@ -2153,7 +2348,8 @@
     "carbs": 17.1744166666667,
     "carbUnit": "g",
     "fats": 0.189333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 67.04562
   },
   {
     "description": "Goiaba, branca, com casca, crua",
@@ -2164,7 +2360,8 @@
     "carbs": 12.4014492753623,
     "carbUnit": "g",
     "fats": 0.486666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 51.737747826087
   },
   {
     "description": "Goiaba, doce em pasta",
@@ -2175,7 +2372,8 @@
     "carbs": 74.1236231884058,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 268.959826086957
   },
   {
     "description": "Goiaba, doce, cascão",
@@ -2186,7 +2384,8 @@
     "carbs": 78.70275,
     "carbUnit": "g",
     "fats": 0.103333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 285.587792439004
   },
   {
     "description": "Goiaba, vermelha, com casca, crua",
@@ -2197,7 +2396,8 @@
     "carbs": 13.0097101449275,
     "carbUnit": "g",
     "fats": 0.44,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 54.1699304347826
   },
   {
     "description": "Graviola, crua",
@@ -2208,7 +2408,8 @@
     "carbs": 15.8395,
     "carbUnit": "g",
     "fats": 0.21,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 61.6218983766636
   },
   {
     "description": "Graviola, polpa, congelada",
@@ -2219,7 +2420,8 @@
     "carbs": 9.78266666666666,
     "carbUnit": "g",
     "fats": 0.137666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 38.27387
   },
   {
     "description": "Jabuticaba, crua",
@@ -2230,7 +2432,8 @@
     "carbs": 15.2558333333333,
     "carbUnit": "g",
     "fats": 0.128333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 58.05315
   },
   {
     "description": "Jaca, crua",
@@ -2241,7 +2444,8 @@
     "carbs": 22.4975833333333,
     "carbUnit": "g",
     "fats": 0.265,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 87.92035
   },
   {
     "description": "Jambo, cru",
@@ -2252,7 +2456,8 @@
     "carbs": 6.49425,
     "carbUnit": "g",
     "fats": 0.066666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 26.9123
   },
   {
     "description": "Jamelão, cru",
@@ -2263,7 +2468,8 @@
     "carbs": 10.6271666666667,
     "carbUnit": "g",
     "fats": 0.109666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 41.0097089167039
   },
   {
     "description": "Kiwi, cru",
@@ -2274,7 +2480,8 @@
     "carbs": 11.4997101449275,
     "carbUnit": "g",
     "fats": 0.626666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 51.1363304347826
   },
   {
     "description": "Laranja, baía, crua",
@@ -2285,7 +2492,8 @@
     "carbs": 11.4684057971015,
     "carbUnit": "g",
     "fats": 0.103333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 45.4381173913043
   },
   {
     "description": "Laranja, baía, suco",
@@ -2296,7 +2504,8 @@
     "carbs": 8.69782608695652,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 36.6494826086956
   },
   {
     "description": "Laranja, da terra, crua",
@@ -2307,7 +2516,8 @@
     "carbs": 12.8605833333333,
     "carbUnit": "g",
     "fats": 0.185666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 51.4711286392808
   },
   {
     "description": "Laranja, da terra, suco",
@@ -2318,7 +2528,8 @@
     "carbs": 9.57333333333334,
     "carbUnit": "g",
     "fats": 0.142,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 40.9560073108673
   },
   {
     "description": "Laranja, lima, crua",
@@ -2329,7 +2540,8 @@
     "carbs": 11.53375,
     "carbUnit": "g",
     "fats": 0.075333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 45.7010387806296
   },
   {
     "description": "Laranja, lima, suco",
@@ -2340,7 +2552,8 @@
     "carbs": 9.16741666666668,
     "carbUnit": "g",
     "fats": 0.119333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 39.3360939441324
   },
   {
     "description": "Laranja, pêra, crua",
@@ -2351,7 +2564,8 @@
     "carbs": 8.94652173913044,
     "carbUnit": "g",
     "fats": 0.126666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 36.7737652173913
   },
   {
     "description": "Laranja, pêra, suco",
@@ -2362,7 +2576,8 @@
     "carbs": 7.55420289855072,
     "carbUnit": "g",
     "fats": 0.073333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 32.7097536231884
   },
   {
     "description": "Laranja, valência, crua",
@@ -2373,7 +2588,8 @@
     "carbs": 11.723,
     "carbUnit": "g",
     "fats": 0.159,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 46.109628783385
   },
   {
     "description": "Laranja, valência, suco",
@@ -2384,7 +2600,8 @@
     "carbs": 8.554,
     "carbUnit": "g",
     "fats": 0.124333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 36.1963505876859
   },
   {
     "description": "Limão, cravo, suco",
@@ -2395,7 +2612,8 @@
     "carbs": 5.24666666666666,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 14.1037333993117
   },
   {
     "description": "Limão, galego, suco",
@@ -2406,7 +2624,8 @@
     "carbs": 7.32144927536232,
     "carbUnit": "g",
     "fats": 0.066666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 22.2250434782609
   },
   {
     "description": "Limão, tahiti, cru",
@@ -2417,7 +2636,8 @@
     "carbs": 11.0844166666667,
     "carbUnit": "g",
     "fats": 0.14,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 31.8181534301639
   },
   {
     "description": "Maçã, Argentina, com casca, crua",
@@ -2428,7 +2648,8 @@
     "carbs": 16.588,
     "carbUnit": "g",
     "fats": 0.246,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 62.5318183662891
   },
   {
     "description": "Maçã, Fuji, com casca, crua",
@@ -2439,7 +2660,8 @@
     "carbs": 15.1533333333333,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 55.5152000000001
   },
   {
     "description": "Macaúba, crua",
@@ -2450,7 +2672,8 @@
     "carbs": 13.9454333333333,
     "carbUnit": "g",
     "fats": 40.6566666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 404.281876666667
   },
   {
     "description": "Mamão, doce em calda, drenado",
@@ -2461,7 +2684,8 @@
     "carbs": 54.0035833333333,
     "carbUnit": "g",
     "fats": 0.067333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 195.627474821786
   },
   {
     "description": "Mamão, Formosa, cru",
@@ -2472,7 +2696,8 @@
     "carbs": 11.5547826086956,
     "carbUnit": "g",
     "fats": 0.12,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 45.3407478260869
   },
   {
     "description": "Mamão, Papaia, cru",
@@ -2483,7 +2708,8 @@
     "carbs": 10.43975,
     "carbUnit": "g",
     "fats": 0.124333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 40.1567689422966
   },
   {
     "description": "Mamão verde, doce em calda, drenado",
@@ -2494,7 +2720,8 @@
     "carbs": 57.6366666666667,
     "carbUnit": "g",
     "fats": 0.098,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 209.376254458904
   },
   {
     "description": "Manga, Haden, crua",
@@ -2505,7 +2732,8 @@
     "carbs": 16.6626666666667,
     "carbUnit": "g",
     "fats": 0.256,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 63.5003183387915
   },
   {
     "description": "Manga, Palmer, crua",
@@ -2516,7 +2744,8 @@
     "carbs": 19.35225,
     "carbUnit": "g",
     "fats": 0.172,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 72.4867380916873
   },
   {
     "description": "Manga, polpa, congelada",
@@ -2527,7 +2756,8 @@
     "carbs": 12.5184166666667,
     "carbUnit": "g",
     "fats": 0.234,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 48.30588
   },
   {
     "description": "Manga, Tommy Atkins, crua",
@@ -2538,7 +2768,8 @@
     "carbs": 12.7715942028985,
     "carbUnit": "g",
     "fats": 0.22,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 50.6921826086956
   },
   {
     "description": "Maracujá, cru",
@@ -2549,7 +2780,8 @@
     "carbs": 12.2642028985507,
     "carbUnit": "g",
     "fats": 2.10333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 68.4395086956521
   },
   {
     "description": "Maracujá, polpa, congelada",
@@ -2560,7 +2792,8 @@
     "carbs": 9.59749999999999,
     "carbUnit": "g",
     "fats": 0.176666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 38.7597
   },
   {
     "description": "Maracujá, suco concentrado, envasado",
@@ -2571,7 +2804,8 @@
     "carbs": 9.63599999999999,
     "carbUnit": "g",
     "fats": 0.193333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 41.96732
   },
   {
     "description": "Melancia, crua",
@@ -2582,7 +2816,8 @@
     "carbs": 8.13927536231884,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 32.6066260869565
   },
   {
     "description": "Melão, cru",
@@ -2593,7 +2828,8 @@
     "carbs": 7.52579710144927,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 29.3693913043478
   },
   {
     "description": "Mexerica, Murcote, crua",
@@ -2604,7 +2840,8 @@
     "carbs": 14.862,
     "carbUnit": "g",
     "fats": 0.134,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 57.5927784746488
   },
   {
     "description": "Mexerica, Rio, crua",
@@ -2615,7 +2852,8 @@
     "carbs": 9.33700000000001,
     "carbUnit": "g",
     "fats": 0.128333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 36.8713500000001
   },
   {
     "description": "Morango, cru",
@@ -2626,7 +2864,8 @@
     "carbs": 6.81840579710146,
     "carbUnit": "g",
     "fats": 0.31,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 30.1479173913044
   },
   {
     "description": "Nêspera, crua",
@@ -2637,7 +2876,8 @@
     "carbs": 11.5286666666667,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 42.5391988681952
   },
   {
     "description": "Pequi, cru",
@@ -2648,7 +2888,8 @@
     "carbs": 12.9729166666667,
     "carbUnit": "g",
     "fats": 17.971,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 204.96677
   },
   {
     "description": "Pêra, Park, crua",
@@ -2659,7 +2900,8 @@
     "carbs": 16.0749166666667,
     "carbUnit": "g",
     "fats": 0.230333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 60.58859
   },
   {
     "description": "Pêra, Williams, crua",
@@ -2670,7 +2912,8 @@
     "carbs": 14.0247826086956,
     "carbUnit": "g",
     "fats": 0.11,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 53.3090478260869
   },
   {
     "description": "Pêssego, Aurora, cru",
@@ -2681,7 +2924,8 @@
     "carbs": 9.32100000000001,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 36.3275990245342
   },
   {
     "description": "Pêssego, enlatado, em calda",
@@ -2692,7 +2936,8 @@
     "carbs": 16.8801449275362,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 63.1424347826087
   },
   {
     "description": "Pinha, crua",
@@ -2703,7 +2948,8 @@
     "carbs": 22.4479166666667,
     "carbUnit": "g",
     "fats": 0.319,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 88.4735276668668
   },
   {
     "description": "Pitanga, crua",
@@ -2714,7 +2960,8 @@
     "carbs": 10.2441666666667,
     "carbUnit": "g",
     "fats": 0.169,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 41.41553
   },
   {
     "description": "Pitanga, polpa, congelada",
@@ -2725,7 +2972,8 @@
     "carbs": 4.75858333333333,
     "carbUnit": "g",
     "fats": 0.121333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 19.1054595023592
   },
   {
     "description": "Romã, crua",
@@ -2736,7 +2984,8 @@
     "carbs": 15.1058333333333,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 55.739
   },
   {
     "description": "Tamarindo, cru",
@@ -2747,7 +2996,8 @@
     "carbs": 72.53175,
     "carbUnit": "g",
     "fats": 0.455,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 275.695642694414
   },
   {
     "description": "Tangerina, Poncã, crua",
@@ -2758,7 +3008,8 @@
     "carbs": 9.60999999999999,
     "carbUnit": "g",
     "fats": 0.073333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 37.8306
   },
   {
     "description": "Tangerina, Poncã, suco",
@@ -2769,7 +3020,8 @@
     "carbs": 8.8,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 36.1088
   },
   {
     "description": "Tucumã, cru",
@@ -2780,7 +3032,8 @@
     "carbs": 26.4745833333333,
     "carbUnit": "g",
     "fats": 19.0766666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 262.015195072393
   },
   {
     "description": "Umbu, cru",
@@ -2791,7 +3044,8 @@
     "carbs": 9.39533333333333,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 37.01669
   },
   {
     "description": "Umbu, polpa, congelada",
@@ -2802,7 +3056,8 @@
     "carbs": 8.78683333333333,
     "carbUnit": "g",
     "fats": 0.070333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 33.94329
   },
   {
     "description": "Uva, Itália, crua",
@@ -2813,7 +3068,8 @@
     "carbs": 13.5733333333333,
     "carbUnit": "g",
     "fats": 0.203333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 52.8731000000001
   },
   {
     "description": "Uva, Rubi, crua",
@@ -2824,7 +3080,8 @@
     "carbs": 12.6953333333333,
     "carbUnit": "g",
     "fats": 0.157,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 49.06129
   },
   {
     "description": "Uva, suco concentrado, envasado",
@@ -2835,7 +3092,8 @@
     "carbs": 14.708,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 57.65536
   },
   {
     "description": "Azeite, de dendê",
@@ -2846,7 +3104,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 100,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 884
   },
   {
     "description": "Azeite, de oliva, extra virgem",
@@ -2857,7 +3116,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 100,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 884
   },
   {
     "description": "Manteiga, com sal",
@@ -2868,7 +3128,8 @@
     "carbs": 0.063299992561333,
     "carbUnit": "g",
     "fats": 82.361,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 725.968926845999
   },
   {
     "description": "Manteiga, sem sal",
@@ -2879,7 +3140,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 86.0393333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 757.540460725997
   },
   {
     "description": "Margarina, com óleo hidrogenado, com sal (65% de lipídeos)",
@@ -2890,7 +3152,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 67.4343333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 596.119516956329
   },
   {
     "description": "Margarina, com óleo hidrogenado, sem sal (80% de lipídeos)",
@@ -2901,7 +3164,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 81.7336666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 722.525625804901
   },
   {
     "description": "Margarina, com óleo interesterificado, com sal (65%de lipídeos)",
@@ -2912,7 +3176,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 67.2456666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 594.451693333333
   },
   {
     "description": "Margarina, com óleo interesterificado, sem sal (65% de lipídeos)",
@@ -2923,7 +3188,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 67.097,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 593.13749023819
   },
   {
     "description": "Óleo, de babaçu",
@@ -2934,7 +3200,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 100,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 884
   },
   {
     "description": "Óleo, de canola",
@@ -2945,7 +3212,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 100,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 884
   },
   {
     "description": "Óleo, de girassol",
@@ -2956,7 +3224,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 100,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 884
   },
   {
     "description": "Óleo, de milho",
@@ -2967,7 +3236,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 100,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 884
   },
   {
     "description": "Óleo, de pequi",
@@ -2978,7 +3248,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 100,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 884
   },
   {
     "description": "Óleo, de soja",
@@ -2989,7 +3260,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 100,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 884
   },
   {
     "description": "Abadejo, filé, congelado, assado",
@@ -3000,7 +3272,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 1.23766666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 111.615503451188
   },
   {
     "description": "Abadejo, filé, congelado,cozido",
@@ -3011,7 +3284,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 0.942,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 91.1035483955542
   },
   {
     "description": "Abadejo, filé, congelado, cru",
@@ -3022,7 +3296,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 0.36,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 59.1130332485835
   },
   {
     "description": "Abadejo, filé, congelado, grelhado",
@@ -3033,7 +3308,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 1.30233333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 129.643525902867
   },
   {
     "description": "Atum, conserva em óleo",
@@ -3044,7 +3320,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 5.99666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 165.910560578903
   },
   {
     "description": "Atum, fresco, cru",
@@ -3055,7 +3332,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 0.87,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 117.501
   },
   {
     "description": "Bacalhau, salgado, cru",
@@ -3066,7 +3344,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 1.32,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 135.892966666667
   },
   {
     "description": "Bacalhau, salgado, refogado",
@@ -3077,7 +3356,8 @@
     "carbs": 1.22416666666668,
     "carbUnit": "g",
     "fats": 3.60666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 139.66070105354
   },
   {
     "description": "Cação, posta, com farinha de trigo, frita",
@@ -3088,7 +3368,8 @@
     "carbs": 3.10058333333333,
     "carbUnit": "g",
     "fats": 9.95433333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 208.332743725975
   },
   {
     "description": "Cação, posta, cozida",
@@ -3099,7 +3380,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 0.748,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 116.014480687658
   },
   {
     "description": "Cação, posta, crua",
@@ -3110,7 +3392,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 0.786666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 83.3330250195662
   },
   {
     "description": "Camarão, Rio Grande, grande, cozido",
@@ -3121,7 +3404,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 1.00066666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 90.0136800963084
   },
   {
     "description": "Camarão, Rio Grande, grande, cru",
@@ -3132,7 +3416,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 0.501,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 47.1834367054304
   },
   {
     "description": "Camarão, Sete Barbas, sem cabeça, com casca, frito",
@@ -3143,7 +3428,8 @@
     "carbs": 2.87983333333333,
     "carbUnit": "g",
     "fats": 15.6203333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 231.246153850873
   },
   {
     "description": "Caranguejo, cozido",
@@ -3154,7 +3440,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 0.423,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 82.7215015078386
   },
   {
     "description": "Corimba, cru",
@@ -3165,7 +3452,8 @@
     "carbs": -0.026666666666666,
     "carbUnit": "g",
     "fats": 5.98666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 128.1554
   },
   {
     "description": "Corimbatá, assado",
@@ -3176,7 +3464,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 19.5663333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 261.452439410567
   },
   {
     "description": "Corimbatá, cozido",
@@ -3187,7 +3476,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 16.933,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 238.696104867339
   },
   {
     "description": "Corvina de água doce, crua",
@@ -3198,7 +3488,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 2.24333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 101.009033333333
   },
   {
     "description": "Corvina do mar, crua",
@@ -3209,7 +3500,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 1.58333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 94
   },
   {
     "description": "Corvina grande, assada",
@@ -3220,7 +3512,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 3.57366666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 146.528141125361
   },
   {
     "description": "Corvina grande, cozida",
@@ -3231,7 +3524,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 2.56266666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 100.078124552965
   },
   {
     "description": "Dourada de água doce, fresca",
@@ -3242,7 +3536,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 5.64166666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 131.20831472377
   },
   {
     "description": "Lambari, congelado, cru",
@@ -3253,7 +3548,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 6.54666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 130.840311009487
   },
   {
     "description": "Lambari, congelado, frito",
@@ -3264,7 +3560,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 22.782,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 326.868399886608
   },
   {
     "description": "Lambari, fresco,cru",
@@ -3275,7 +3572,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 9.39733333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 151.598346503218
   },
   {
     "description": "Manjuba, com farinha de trigo, frita",
@@ -3286,7 +3584,8 @@
     "carbs": 10.2403333333333,
     "carbUnit": "g",
     "fats": 22.593,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 343.550458723068
   },
   {
     "description": "Manjuba, frita",
@@ -3297,7 +3596,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 24.46,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 349.325231455366
   },
   {
     "description": "Merluza, filé, assado",
@@ -3308,7 +3608,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 0.921333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 121.910218333333
   },
   {
     "description": "Merluza, filé, cru",
@@ -3319,7 +3620,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 2.02,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 89.1308666666667
   },
   {
     "description": "Merluza, filé, frito",
@@ -3330,7 +3632,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 8.49666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 191.627478375832
   },
   {
     "description": "Pescada, branca, crua",
@@ -3341,7 +3644,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 4.59333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 110.8763
   },
   {
     "description": "Pescada, branca, frita",
@@ -3352,7 +3656,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 11.777,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 223.039732369304
   },
   {
     "description": "Pescada, filé, com farinha de trigo, frito",
@@ -3363,7 +3668,8 @@
     "carbs": 5.03325000000001,
     "carbUnit": "g",
     "fats": 19.115,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 283.425214431961
   },
   {
     "description": "Pescada, filé, cru",
@@ -3374,7 +3680,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 4.00333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 107.205566666667
   },
   {
     "description": "Pescada, filé, frito",
@@ -3385,7 +3692,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 3.57,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 154.270025
   },
   {
     "description": "Pescada, filé, molho escabeche",
@@ -3396,7 +3704,8 @@
     "carbs": 5.01533333333334,
     "carbUnit": "g",
     "fats": 8.024,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 141.958322875023
   },
   {
     "description": "Pescadinha, crua",
@@ -3407,7 +3716,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 1.14333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 76.4089083333333
   },
   {
     "description": "Pintado, assado",
@@ -3418,7 +3728,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 3.982,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 191.559141127586
   },
   {
     "description": "Pintado, cru",
@@ -3429,7 +3740,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 1.31333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 91.0832333333333
   },
   {
     "description": "Pintado, grelhado",
@@ -3440,7 +3752,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 2.294,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 152.190088333333
   },
   {
     "description": "Porquinho, cru",
@@ -3451,7 +3764,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 0.613333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 93.0245666666667
   },
   {
     "description": "Salmão, filé, com pele, fresco,  grelhado",
@@ -3462,7 +3776,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 14.0353333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 228.731775135318
   },
   {
     "description": "Salmão, sem pele, fresco, cru",
@@ -3473,7 +3788,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 9.709,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 169.781579910556
   },
   {
     "description": "Salmão, sem pele, fresco, grelhado",
@@ -3484,7 +3800,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 14.5323333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 242.706569487095
   },
   {
     "description": "Sardinha, assada",
@@ -3495,7 +3812,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 2.98733333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 164.350788333333
   },
   {
     "description": "Sardinha, conserva em óleo",
@@ -3506,7 +3824,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 24.0486666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 284.981004871249
   },
   {
     "description": "Sardinha, frita",
@@ -3517,7 +3836,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 12.6933333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 257.0407
   },
   {
     "description": "Sardinha, inteira, crua",
@@ -3528,7 +3848,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 2.65,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 113.900366666667
   },
   {
     "description": "Tucunaré, filé, congelado, cru",
@@ -3539,7 +3860,8 @@
     "carbs": -0.045000000000008,
     "carbUnit": "g",
     "fats": 1.22,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 87.686483549277
   },
   {
     "description": "Apresuntado",
@@ -3550,7 +3872,8 @@
     "carbs": 2.862,
     "carbUnit": "g",
     "fats": 6.69066666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 128.857255812009
   },
   {
     "description": "Caldo de carne, tablete",
@@ -3561,7 +3884,8 @@
     "carbs": 15.0533333333333,
     "carbUnit": "g",
     "fats": 16.57,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 240.623333333333
   },
   {
     "description": "Caldo de galinha, tablete",
@@ -3572,7 +3896,8 @@
     "carbs": 10.6455,
     "carbUnit": "g",
     "fats": 20.4163333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 251.445666666667
   },
   {
     "description": "Carne, bovina, acém, moído, cozido",
@@ -3583,7 +3908,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 10.9166666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 212.4204
   },
   {
     "description": "Carne, bovina, acém, moído, cru",
@@ -3594,7 +3920,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 5.94666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 136.562333333333
   },
   {
     "description": "Carne, bovina, acém, sem gordura, cozido",
@@ -3605,7 +3932,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 10.8833333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 214.610566666667
   },
   {
     "description": "Carne, bovina, acém, sem gordura, cru",
@@ -3616,7 +3944,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 6.11333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 144.029433333333
   },
   {
     "description": "Carne, bovina, almôndegas, cruas",
@@ -3627,7 +3956,8 @@
     "carbs": 9.79416666666666,
     "carbUnit": "g",
     "fats": 11.2033333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 189.256666666667
   },
   {
     "description": "Carne, bovina, almôndegas, fritas",
@@ -3638,7 +3968,8 @@
     "carbs": 14.28675,
     "carbUnit": "g",
     "fats": 15.7823333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 271.813
   },
   {
     "description": "Carne, bovina, bucho, cozido",
@@ -3649,7 +3980,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 4.50333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 133.022866666667
   },
   {
     "description": "Carne, bovina, bucho, cru",
@@ -3660,7 +3992,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 5.50333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 137.303166666667
   },
   {
     "description": "Carne, bovina, capa de contra-filé, com gordura, crua",
@@ -3671,7 +4004,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 14.96,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 216.908966666667
   },
   {
     "description": "Carne, bovina, capa de contra-filé, com gordura, grelhada",
@@ -3682,7 +4016,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 20.03,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 311.702666666667
   },
   {
     "description": "Carne, bovina, capa de contra-filé, sem gordura, crua",
@@ -3693,7 +4028,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 4.33333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 131.062466666667
   },
   {
     "description": "Carne, bovina, capa de contra-filé, sem gordura, grelhada",
@@ -3704,7 +4040,8 @@
     "carbs": -0.006666666666675,
     "carbUnit": "g",
     "fats": 9.95,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 239.443633333333
   },
   {
     "description": "Carne, bovina, charque, cozido",
@@ -3715,7 +4052,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 11.9183333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 262.780142262181
   },
   {
     "description": "Carne, bovina, charque, cru",
@@ -3726,7 +4064,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 16.837,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 248.861018107454
   },
   {
     "description": "Carne, bovina, contra-filé, à milanesa",
@@ -3737,7 +4076,8 @@
     "carbs": 12.1745,
     "carbUnit": "g",
     "fats": 23.998,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 351.592659198999
   },
   {
     "description": "Carne, bovina, contra-filé de costela, cru",
@@ -3748,7 +4088,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 13.07,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 202.4374
   },
   {
     "description": "Carne, bovina, contra-filé de costela, grelhado",
@@ -3759,7 +4100,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 16.3333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 274.914266666667
   },
   {
     "description": "Carne, bovina, contra-filé, com gordura, cru",
@@ -3770,7 +4112,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 12.81,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 205.8567
   },
   {
     "description": "Carne, bovina, contra-filé, com gordura, grelhado",
@@ -3781,7 +4124,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 15.49,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 278.053566666667
   },
   {
     "description": "Carne, bovina, contra-filé, sem gordura, cru",
@@ -3792,7 +4136,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 6.00333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 156.615833333333
   },
   {
     "description": "Carne, bovina, contra-filé, sem gordura, grelhado",
@@ -3803,7 +4148,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 4.48666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 193.691566666667
   },
   {
     "description": "Carne, bovina, costela, assada",
@@ -3814,7 +4160,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 27.72,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 373.038866666667
   },
   {
     "description": "Carne, bovina, costela, crua",
@@ -3825,7 +4172,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 31.75,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 357.722466666667
   },
   {
     "description": "Carne, bovina, coxão duro, sem gordura, cozido",
@@ -3836,7 +4184,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 8.92333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 216.616066666667
   },
   {
     "description": "Carne, bovina, coxão duro, sem gordura, cru",
@@ -3847,7 +4196,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 6.22,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 147.966333333333
   },
   {
     "description": "Carne, bovina, coxão mole, sem gordura, cozido",
@@ -3858,7 +4208,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 8.91333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 218.6751
   },
   {
     "description": "Carne, bovina, coxão mole, sem gordura, cru",
@@ -3869,7 +4220,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 8.69333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 169.065966666667
   },
   {
     "description": "Carne, bovina, cupim, assado",
@@ -3880,7 +4232,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 23.0426666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 330.100290833333
   },
   {
     "description": "Carne, bovina, cupim, cru",
@@ -3891,7 +4244,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 15.2966666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 221.3975
   },
   {
     "description": "Carne, bovina, fígado, cru",
@@ -3902,7 +4256,8 @@
     "carbs": 1.10666666666667,
     "carbUnit": "g",
     "fats": 5.35666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 141.045866666667
   },
   {
     "description": "Carne, bovina, fígado, grelhado",
@@ -3913,7 +4268,8 @@
     "carbs": 4.2,
     "carbUnit": "g",
     "fats": 9.01,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 225.0264
   },
   {
     "description": "Carne, bovina, filé mingnon, sem gordura, cru",
@@ -3924,7 +4280,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 5.61333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 142.864266666667
   },
   {
     "description": "Carne, bovina, filé mingnon, sem gordura, grelhado",
@@ -3935,7 +4292,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 8.83,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 219.7026
   },
   {
     "description": "Carne, bovina, flanco, sem gordura, cozido",
@@ -3946,7 +4304,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 7.77,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 195.575366666667
   },
   {
     "description": "Carne, bovina, flanco, sem gordura, cru",
@@ -3957,7 +4316,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 6.21666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 141.4601
   },
   {
     "description": "Carne, bovina, fraldinha, com gordura, cozida",
@@ -3968,7 +4328,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 26.0466666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 338.445733333333
   },
   {
     "description": "Carne, bovina, fraldinha, com gordura, crua",
@@ -3979,7 +4340,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 16.1466666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 220.723766666667
   },
   {
     "description": "Carne, bovina, lagarto, cozido",
@@ -3990,7 +4352,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 9.10666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 222.468566666667
   },
   {
     "description": "Carne, bovina, lagarto, cru",
@@ -4001,7 +4364,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 5.22666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 134.864566666667
   },
   {
     "description": "Carne, bovina, língua, cozida",
@@ -4012,7 +4376,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 24.7966666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 314.9016
   },
   {
     "description": "Carne, bovina, língua, crua",
@@ -4023,7 +4388,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 15.7733333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 215.249766666667
   },
   {
     "description": "Carne, bovina, maminha, crua",
@@ -4034,7 +4400,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 7.02666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 152.765866666667
   },
   {
     "description": "Carne, bovina, maminha, grelhada",
@@ -4045,7 +4412,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 2.42233333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 153.089675833333
   },
   {
     "description": "Carne, bovina, miolo de alcatra, sem gordura, cru",
@@ -4056,7 +4424,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 7.82666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 162.871233333333
   },
   {
     "description": "Carne, bovina, miolo de alcatra, sem gordura, grelhado",
@@ -4067,7 +4436,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 11.6433333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 241.363966666667
   },
   {
     "description": "Carne, bovina, músculo, sem gordura, cozido",
@@ -4078,7 +4448,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 6.7,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 193.800333333333
   },
   {
     "description": "Carne, bovina, músculo, sem gordura, cru",
@@ -4089,7 +4460,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 5.49,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 141.581
   },
   {
     "description": "Carne, bovina, paleta, com gordura, crua",
@@ -4100,7 +4472,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 7.46,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 158.7099
   },
   {
     "description": "Carne, bovina, paleta, sem gordura, cozida",
@@ -4111,7 +4484,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 7.4,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 193.6524
   },
   {
     "description": "Carne, bovina, paleta, sem gordura, crua",
@@ -4122,7 +4496,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 5.67,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 140.9415
   },
   {
     "description": "Carne, bovina, patinho, sem gordura, cru",
@@ -4133,7 +4508,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 4.51333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 133.4689
   },
   {
     "description": "Carne, bovina, patinho, sem gordura, grelhado",
@@ -4144,7 +4520,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 7.31333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 219.259266666667
   },
   {
     "description": "Carne, bovina, peito, sem gordura, cozido",
@@ -4155,7 +4532,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 26.9933333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 338.473133333333
   },
   {
     "description": "Carne, bovina, peito, sem gordura, cru",
@@ -4166,7 +4544,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 20.4333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 259.275633333333
   },
   {
     "description": "Carne, bovina, picanha, com gordura, crua",
@@ -4177,7 +4556,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 14.69,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 212.879433333333
   },
   {
     "description": "Carne, bovina, picanha, com gordura, grelhada",
@@ -4188,7 +4568,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 19.5066666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 288.767091666667
   },
   {
     "description": "Carne, bovina, picanha, sem gordura, crua",
@@ -4199,7 +4580,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 4.74333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 133.522366666667
   },
   {
     "description": "Carne, bovina, picanha, sem gordura, grelhada",
@@ -4210,7 +4592,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 11.3333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 238.468133333333
   },
   {
     "description": "Carne, bovina, seca, cozida",
@@ -4221,7 +4604,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 21.9293333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 312.799033691446
   },
   {
     "description": "Carne, bovina, seca, crua",
@@ -4232,7 +4616,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 25.3666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 312.748427903652
   },
   {
     "description": "Coxinha de frango, frita",
@@ -4243,7 +4628,8 @@
     "carbs": 34.5205833333333,
     "carbUnit": "g",
     "fats": 11.836,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 283.048
   },
   {
     "description": "Croquete, de carne, cru",
@@ -4254,7 +4640,8 @@
     "carbs": 13.9495833333333,
     "carbUnit": "g",
     "fats": 15.561,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 245.771925297141
   },
   {
     "description": "Croquete, de carne, frito",
@@ -4265,7 +4652,8 @@
     "carbs": 18.1461666666667,
     "carbUnit": "g",
     "fats": 22.6733333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 346.742014647404
   },
   {
     "description": "Empada de frango, pré-cozida, assada",
@@ -4276,7 +4664,8 @@
     "carbs": 47.4929166666667,
     "carbUnit": "g",
     "fats": 15.605,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 358.191666666667
   },
   {
     "description": "Empada, de frango, pré-cozida",
@@ -4287,7 +4676,8 @@
     "carbs": 35.5289166666667,
     "carbUnit": "g",
     "fats": 22.8876666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 377.479666666667
   },
   {
     "description": "Frango, asa, com pele, crua",
@@ -4298,7 +4688,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 15.0666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 213.188333333333
   },
   {
     "description": "Frango, caipira, inteiro, com pele, cozido",
@@ -4309,7 +4700,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 15.6156666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 242.889326666667
   },
   {
     "description": "Frango, caipira, inteiro, sem pele, cozido",
@@ -4320,7 +4712,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 7.70233333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 195.760296666667
   },
   {
     "description": "Frango, coração, cru",
@@ -4331,7 +4724,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 18.6,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 221.502833333333
   },
   {
     "description": "Frango, coração, grelhado",
@@ -4342,7 +4736,8 @@
     "carbs": 0.607416666666658,
     "carbUnit": "g",
     "fats": 12.096,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 207.273643333333
   },
   {
     "description": "Frango, coxa, com pele, assada",
@@ -4353,7 +4748,8 @@
     "carbs": 0.05833333333334,
     "carbUnit": "g",
     "fats": 10.3613333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 215.11864753294
   },
   {
     "description": "Frango, coxa, com pele, crua",
@@ -4364,7 +4760,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 9.81,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 161.474733333333
   },
   {
     "description": "Frango, coxa, sem pele, cozida",
@@ -4375,7 +4772,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 5.84733333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 167.428032164415
   },
   {
     "description": "Frango, coxa, sem pele, crua",
@@ -4386,7 +4784,8 @@
     "carbs": 0.019999999999997,
     "carbUnit": "g",
     "fats": 4.85666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 119.947466666667
   },
   {
     "description": "Frango, fígado, cru",
@@ -4397,7 +4796,8 @@
     "carbs": -0.023333333333338,
     "carbUnit": "g",
     "fats": 3.49,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 106.484566666667
   },
   {
     "description": "Frango, filé, à milanesa",
@@ -4408,7 +4808,8 @@
     "carbs": 7.51291666666666,
     "carbUnit": "g",
     "fats": 7.79066666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 220.87278
   },
   {
     "description": "Frango, inteiro, com pele, cru",
@@ -4419,7 +4820,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 17.3066666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 226.319166666667
   },
   {
     "description": "Frango, inteiro, sem pele, assado",
@@ -4430,7 +4832,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 7.50233333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 187.337796666667
   },
   {
     "description": "Frango, inteiro, sem pele, cozido",
@@ -4441,7 +4844,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 7.06233333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 170.389975833333
   },
   {
     "description": "Frango, inteiro, sem pele, cru",
@@ -4452,7 +4856,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 4.56666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 129.0964
   },
   {
     "description": "Frango, peito, com pele, assado",
@@ -4463,7 +4868,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 7.649,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 211.683149530729
   },
   {
     "description": "Frango, peito, com pele, cru",
@@ -4474,7 +4880,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 6.73333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 149.465266666667
   },
   {
     "description": "Frango, peito, sem pele, cozido",
@@ -4485,7 +4892,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 3.16,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 162.874763346314
   },
   {
     "description": "Frango, peito, sem pele, cru",
@@ -4496,7 +4904,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 3.02,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 119.159266666667
   },
   {
     "description": "Frango, peito, sem pele, grelhado",
@@ -4507,7 +4916,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 2.48366666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 159.185007192612
   },
   {
     "description": "Frango, sobrecoxa, com pele, assada",
@@ -4518,7 +4928,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 15.1936666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 259.604769166667
   },
   {
     "description": "Frango, sobrecoxa, com pele, crua",
@@ -4529,7 +4940,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 20.9,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 254.5322
   },
   {
     "description": "Frango, sobrecoxa, sem pele, assada",
@@ -4540,7 +4952,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 12.0073333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 232.883396666667
   },
   {
     "description": "Frango, sobrecoxa, sem pele, crua",
@@ -4551,7 +4964,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 9.62,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 161.7963
   },
   {
     "description": "Hambúrguer, bovino, cru",
@@ -4562,7 +4976,8 @@
     "carbs": 4.15375,
     "carbUnit": "g",
     "fats": 16.1773333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 214.836
   },
   {
     "description": "Hambúrguer, bovino, frito",
@@ -4573,7 +4988,8 @@
     "carbs": 6.32008333333333,
     "carbUnit": "g",
     "fats": 17.0123333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 258.283
   },
   {
     "description": "Hambúrguer, bovino, grelhado",
@@ -4584,7 +5000,8 @@
     "carbs": 11.3334166666667,
     "carbUnit": "g",
     "fats": 12.4303333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 209.831666666667
   },
   {
     "description": "Lingüiça, frango, crua",
@@ -4595,7 +5012,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 17.4396666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 218.108814166667
   },
   {
     "description": "Lingüiça, frango, frita",
@@ -4606,7 +5024,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 18.542,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 245.461006666667
   },
   {
     "description": "Lingüiça, frango, grelhada",
@@ -4617,7 +5036,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 18.4023333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 243.6585675
   },
   {
     "description": "Lingüiça, porco, crua",
@@ -4628,7 +5048,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 17.584,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 227.203450833333
   },
   {
     "description": "Lingüiça, porco, frita",
@@ -4639,7 +5060,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 21.3096666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 279.543589166667
   },
   {
     "description": "Lingüiça, porco, grelhada",
@@ -4650,7 +5072,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 21.9023333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 296.489609166667
   },
   {
     "description": "Mortadela",
@@ -4661,7 +5084,8 @@
     "carbs": 5.81591666666666,
     "carbUnit": "g",
     "fats": 21.6493333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 268.819989016732
   },
   {
     "description": "Peru, congelado, assado",
@@ -4672,7 +5096,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 5.675,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 163.071397931377
   },
   {
     "description": "Peru, congelado, cru",
@@ -4683,7 +5108,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 1.83,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 93.7224338261286
   },
   {
     "description": "Porco, bisteca, crua",
@@ -4694,7 +5120,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 8.01666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 164.115336592992
   },
   {
     "description": "Porco, bisteca, frita",
@@ -4705,7 +5132,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 18.5216666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 311.169045334856
   },
   {
     "description": "Porco, bisteca, grelhada",
@@ -4716,7 +5144,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 17.3753333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 280.084034902771
   },
   {
     "description": "Porco, costela, assada",
@@ -4727,7 +5156,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 30.279,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 402.168447450837
   },
   {
     "description": "Porco, costela, crua",
@@ -4738,7 +5168,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 19.8166666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 255.606342061361
   },
   {
     "description": "Porco, lombo, assado",
@@ -4749,7 +5180,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 6.39566666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 210.234665579637
   },
   {
     "description": "Porco, lombo, cru",
@@ -4760,7 +5192,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 8.77,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 175.625195250114
   },
   {
     "description": "Porco, orelha, salgada, crua",
@@ -4771,7 +5204,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 19.89,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 258.491758333333
   },
   {
     "description": "Porco, pernil, assado",
@@ -4782,7 +5216,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 13.8636666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 262.259606666667
   },
   {
     "description": "Porco, pernil, cru",
@@ -4793,7 +5228,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 11.1,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 186.05575
   },
   {
     "description": "Porco, rabo, salgado, cru",
@@ -4804,7 +5240,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 34.466,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 377.4152575
   },
   {
     "description": "Presunto, com capa de gordura",
@@ -4815,7 +5252,8 @@
     "carbs": 1.3975,
     "carbUnit": "g",
     "fats": 6.77133333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 127.849212665637
   },
   {
     "description": "Presunto, sem capa de gordura",
@@ -4826,7 +5264,8 @@
     "carbs": 2.14566666666667,
     "carbUnit": "g",
     "fats": 2.70666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 93.7432807208697
   },
   {
     "description": "Quibe, assado",
@@ -4837,7 +5276,8 @@
     "carbs": 12.86125,
     "carbUnit": "g",
     "fats": 2.67633333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 136.228876141588
   },
   {
     "description": "Quibe, cru",
@@ -4848,7 +5288,8 @@
     "carbs": 10.7741666666667,
     "carbUnit": "g",
     "fats": 1.66766666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 109.490669294755
   },
   {
     "description": "Quibe, frito",
@@ -4859,7 +5300,8 @@
     "carbs": 12.3374166666667,
     "carbUnit": "g",
     "fats": 15.799,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 253.83130886964
   },
   {
     "description": "Salame",
@@ -4870,7 +5312,8 @@
     "carbs": 2.90625000000001,
     "carbUnit": "g",
     "fats": 30.6413333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 397.842506534934
   },
   {
     "description": "Toucinho, cru",
@@ -4881,7 +5324,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 60.2566666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 592.531175
   },
   {
     "description": "Toucinho, frito",
@@ -4892,7 +5336,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 64.3086666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 696.564006666667
   },
   {
     "description": "Bebida láctea, pêssego",
@@ -4903,7 +5348,8 @@
     "carbs": 7.57000000000001,
     "carbUnit": "g",
     "fats": 1.90666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 55.1648333333333
   },
   {
     "description": "Creme de Leite",
@@ -4914,7 +5360,8 @@
     "carbs": 4.50952663962046,
     "carbUnit": "g",
     "fats": 22.4793333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 221.483541275133
   },
   {
     "description": "Iogurte, natural",
@@ -4925,7 +5372,8 @@
     "carbs": 1.91666666666666,
     "carbUnit": "g",
     "fats": 3.04,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 51.4895333333333
   },
   {
     "description": "Iogurte, natural, desnatado",
@@ -4936,7 +5384,8 @@
     "carbs": 5.77395333333333,
     "carbUnit": "g",
     "fats": 0.315666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 41.4927112815583
   },
   {
     "description": "Iogurte, sabor abacaxi",
@@ -4947,7 +5396,8 @@
     "carbs": "*",
     "carbUnit": "g",
     "fats": "*",
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": "*"
   },
   {
     "description": "Iogurte, sabor morango",
@@ -4958,7 +5408,8 @@
     "carbs": 9.69333333333334,
     "carbUnit": "g",
     "fats": 2.33,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 69.5656
   },
   {
     "description": "Iogurte, sabor pêssego",
@@ -4969,7 +5420,8 @@
     "carbs": 9.43333333333334,
     "carbUnit": "g",
     "fats": 2.33666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 67.8494
   },
   {
     "description": "Leite, condensado",
@@ -4980,7 +5432,8 @@
     "carbs": 56.9966666666667,
     "carbUnit": "g",
     "fats": 6.74,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 312.5726
   },
   {
     "description": "Leite, de cabra",
@@ -4991,7 +5444,8 @@
     "carbs": 5.24609333333333,
     "carbUnit": "g",
     "fats": 3.75433333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 66.4157418865433
   },
   {
     "description": "Leite, de vaca, achocolatado",
@@ -5002,7 +5456,8 @@
     "carbs": 14.1583133333333,
     "carbUnit": "g",
     "fats": 2.169,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 82.8209962719936
   },
   {
     "description": "Leite, de vaca, desnatado, pó",
@@ -5013,7 +5468,8 @@
     "carbs": 53.0433333333333,
     "carbUnit": "g",
     "fats": 0.933333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 361.608
   },
   {
     "description": "Leite, de vaca, desnatado, UHT",
@@ -5024,7 +5480,8 @@
     "carbs": "*",
     "carbUnit": "g",
     "fats": "*",
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": "*"
   },
   {
     "description": "Leite, de vaca, integral",
@@ -5035,7 +5492,8 @@
     "carbs": "*",
     "carbUnit": "g",
     "fats": "*",
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": "*"
   },
   {
     "description": "Leite, de vaca, integral, pó",
@@ -5046,7 +5504,8 @@
     "carbs": 39.18,
     "carbUnit": "g",
     "fats": 26.9033333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 496.6503
   },
   {
     "description": "Leite, fermentado",
@@ -5057,7 +5516,8 @@
     "carbs": 15.6744733333333,
     "carbUnit": "g",
     "fats": 0.099,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 69.621474
   },
   {
     "description": "Queijo, minas, frescal",
@@ -5068,7 +5528,8 @@
     "carbs": 3.24031333333333,
     "carbUnit": "g",
     "fats": 20.1806666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 264.273128
   },
   {
     "description": "Queijo, minas, meia cura",
@@ -5079,7 +5540,8 @@
     "carbs": 3.57295961952209,
     "carbUnit": "g",
     "fats": 24.61,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 320.72181773326
   },
   {
     "description": "Queijo, mozarela",
@@ -5090,7 +5552,8 @@
     "carbs": 3.04933292706807,
     "carbUnit": "g",
     "fats": 25.183,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 329.870718420887
   },
   {
     "description": "Queijo, parmesão",
@@ -5101,7 +5564,8 @@
     "carbs": 1.66072,
     "carbUnit": "g",
     "fats": 33.5293333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 452.963755333333
   },
   {
     "description": "Queijo, pasteurizado",
@@ -5112,7 +5576,8 @@
     "carbs": 5.67633333333333,
     "carbUnit": "g",
     "fats": 27.4353333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 303.079803333333
   },
   {
     "description": "Queijo, petit suisse, morango",
@@ -5123,7 +5588,8 @@
     "carbs": 18.4620066666667,
     "carbUnit": "g",
     "fats": 2.83833333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 121.105954
   },
   {
     "description": "Queijo, prato",
@@ -5134,7 +5600,8 @@
     "carbs": 1.87857292683919,
     "carbUnit": "g",
     "fats": 29.1063333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 359.880462405055
   },
   {
     "description": "Maria mole",
@@ -5145,7 +5612,8 @@
     "carbs": 2.43245333333333,
     "carbUnit": "g",
     "fats": 23.441,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 256.578148666667
   },
   {
     "description": "Queijo, ricota",
@@ -5156,7 +5624,8 @@
     "carbs": 3.78616666666667,
     "carbUnit": "g",
     "fats": 8.10866666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 139.73178
   },
   {
     "description": "Bebida isotônica, sabores variados",
@@ -5167,7 +5636,8 @@
     "carbs": 6.40333333333334,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 25.6133333333333
   },
   {
     "description": "Café, infusão 10%",
@@ -5178,7 +5648,8 @@
     "carbs": 1.47866666666667,
     "carbUnit": "g",
     "fats": 0.069333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 9.07086859961352
   },
   {
     "description": "Cana, aguardente 1",
@@ -5189,7 +5660,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 215.6616
   },
   {
     "description": "Cana, caldo de",
@@ -5200,7 +5672,8 @@
     "carbs": 18.151,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 65.3435982689857
   },
   {
     "description": "Cerveja, pilsen 2",
@@ -5211,7 +5684,8 @@
     "carbs": 3.3175,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 40.7201885506287
   },
   {
     "description": "Chá, erva-doce, infusão 5%",
@@ -5222,7 +5696,8 @@
     "carbs": 0.391333333333321,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 1.39705997387564
   },
   {
     "description": "Chá, mate, infusão 5%",
@@ -5233,7 +5708,8 @@
     "carbs": 0.642999999999993,
     "carbUnit": "g",
     "fats": 0.052,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 2.73074995112414
   },
   {
     "description": "Chá, preto, infusão 5%",
@@ -5244,7 +5720,8 @@
     "carbs": 0.629666666666665,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 2.24790995796521
   },
   {
     "description": "Coco, água de",
@@ -5255,7 +5732,8 @@
     "carbs": 5.28466666666667,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 21.5085942405065
   },
   {
     "description": "Refrigerante, tipo água tônica",
@@ -5266,7 +5744,8 @@
     "carbs": 7.95333333333334,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 30.7794
   },
   {
     "description": "Refrigerante, tipo cola",
@@ -5277,7 +5756,8 @@
     "carbs": 8.66000000000001,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 33.5142
   },
   {
     "description": "Refrigerante, tipo guaraná",
@@ -5288,7 +5768,8 @@
     "carbs": 10,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 38.7
   },
   {
     "description": "Refrigerante, tipo laranja",
@@ -5299,7 +5780,8 @@
     "carbs": 11.79,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 45.6273
   },
   {
     "description": "Refrigerante, tipo limão",
@@ -5310,7 +5792,8 @@
     "carbs": 10.2633333333333,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 39.7191
   },
   {
     "description": "Omelete, de queijo",
@@ -5321,7 +5804,8 @@
     "carbs": 0.437166666666668,
     "carbUnit": "g",
     "fats": 22.0076666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 268.006772182425
   },
   {
     "description": "Ovo, de codorna, inteiro, cru",
@@ -5332,7 +5816,8 @@
     "carbs": 0.772499999999999,
     "carbUnit": "g",
     "fats": 12.68,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 176.8939
   },
   {
     "description": "Ovo, de galinha, clara, cozida/10minutos",
@@ -5343,7 +5828,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 0.089,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 59.4356966666667
   },
   {
     "description": "Ovo, de galinha, gema, cozida/10minutos",
@@ -5354,7 +5840,8 @@
     "carbs": 1.56000000000001,
     "carbUnit": "g",
     "fats": 30.777,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 352.67334
   },
   {
     "description": "Ovo, de galinha, inteiro, cozido/10minutos",
@@ -5365,7 +5852,8 @@
     "carbs": 0.614916666666674,
     "carbUnit": "g",
     "fats": 9.47633333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 145.70017
   },
   {
     "description": "Ovo, de galinha, inteiro, cru",
@@ -5376,7 +5864,8 @@
     "carbs": 1.63666666666667,
     "carbUnit": "g",
     "fats": 8.9,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 143.111733333333
   },
   {
     "description": "Ovo, de galinha, inteiro, frito",
@@ -5387,7 +5876,8 @@
     "carbs": 1.19366666666666,
     "carbUnit": "g",
     "fats": 18.5926666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 240.187224009117
   },
   {
     "description": "Achocolatado, pó",
@@ -5398,7 +5888,8 @@
     "carbs": 91.1766666666667,
     "carbUnit": "g",
     "fats": 2.16666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 401.02
   },
   {
     "description": "Açúcar, cristal",
@@ -5409,7 +5900,8 @@
     "carbs": 99.61,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 386.845724
   },
   {
     "description": "Açúcar, mascavo",
@@ -5420,7 +5912,8 @@
     "carbs": 94.45,
     "carbUnit": "g",
     "fats": 0.092,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 368.554822524389
   },
   {
     "description": "Açúcar, refinado",
@@ -5431,7 +5924,8 @@
     "carbs": 99.54,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 386.574824
   },
   {
     "description": "Chocolate, ao leite",
@@ -5442,7 +5936,8 @@
     "carbs": 59.5766666666667,
     "carbUnit": "g",
     "fats": 30.2666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 539.586666666667
   },
   {
     "description": "Chocolate, ao leite, com castanha do Pará",
@@ -5453,7 +5948,8 @@
     "carbs": 55.3768333333333,
     "carbUnit": "g",
     "fats": 34.191,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 558.876333333333
   },
   {
     "description": "Chocolate, ao leite, dietético",
@@ -5464,7 +5960,8 @@
     "carbs": 56.3234166666667,
     "carbUnit": "g",
     "fats": 33.771,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 556.824333333333
   },
   {
     "description": "Chocolate, meio amargo",
@@ -5475,7 +5972,8 @@
     "carbs": 62.4228899011612,
     "carbUnit": "g",
     "fats": 29.8566666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 474.917769973274
   },
   {
     "description": "Cocada branca",
@@ -5486,7 +5984,8 @@
     "carbs": 81.3831666262945,
     "carbUnit": "g",
     "fats": 13.587,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 448.84545242331
   },
   {
     "description": "Doce, de abóbora, cremoso",
@@ -5497,7 +5996,8 @@
     "carbs": 54.6133333333333,
     "carbUnit": "g",
     "fats": 0.206666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 198.936063049634
   },
   {
     "description": "Doce, de leite, cremoso",
@@ -5508,7 +6008,8 @@
     "carbs": 59.4933732350667,
     "carbUnit": "g",
     "fats": 5.993,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 306.310130231059
   },
   {
     "description": "Geléia, mocotó, natural",
@@ -5519,7 +6020,8 @@
     "carbs": 24.2316666666667,
     "carbUnit": "g",
     "fats": 0.073333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 106.086666666667
   },
   {
     "description": "Glicose de milho",
@@ -5530,7 +6032,8 @@
     "carbs": 79.38,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 292.118405299187
   },
   {
     "description": "Maria mole",
@@ -5541,7 +6044,8 @@
     "carbs": 73.5534832022985,
     "carbUnit": "g",
     "fats": 0.19,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 301.235887537
   },
   {
     "description": "Maria mole, coco queimado",
@@ -5552,7 +6056,8 @@
     "carbs": 75.0593831981023,
     "carbUnit": "g",
     "fats": 0.089333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 306.631896997019
   },
   {
     "description": "Marmelada",
@@ -5563,7 +6068,8 @@
     "carbs": 70.7633333333333,
     "carbUnit": "g",
     "fats": 0.137333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 257.241473193804
   },
   {
     "description": "Mel, de abelha",
@@ -5574,7 +6080,8 @@
     "carbs": 84.0333333333333,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 309.242666666667
   },
   {
     "description": "Melado",
@@ -5585,7 +6092,8 @@
     "carbs": 76.6166666666667,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 296.506491231918
   },
   {
     "description": "Quindim",
@@ -5596,7 +6104,8 @@
     "carbs": 46.2988333333333,
     "carbUnit": "g",
     "fats": 24.425,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 411.348721570849
   },
   {
     "description": "Rapadura",
@@ -5607,7 +6116,8 @@
     "carbs": 90.7924166666667,
     "carbUnit": "g",
     "fats": 0.070666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 351.958122101545
   },
   {
     "description": "Café, pó, torrado",
@@ -5618,7 +6128,8 @@
     "carbs": 65.7533333333333,
     "carbUnit": "g",
     "fats": 11.9466666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 418.618666666667
   },
   {
     "description": "Capuccino, pó",
@@ -5629,7 +6140,8 @@
     "carbs": 73.6141666666667,
     "carbUnit": "g",
     "fats": 8.63333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 417.406666666667
   },
   {
     "description": "Fermento em pó, químico",
@@ -5640,7 +6152,8 @@
     "carbs": 43.9113333479563,
     "carbUnit": "g",
     "fats": 0.073333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 89.7220666511218
   },
   {
     "description": "Fermento, biológico, levedura, tablete",
@@ -5651,7 +6164,8 @@
     "carbs": 7.69866718832652,
     "carbUnit": "g",
     "fats": 1.51766666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 89.7948670305889
   },
   {
     "description": "Gelatina, sabores variados, pó",
@@ -5662,7 +6176,8 @@
     "carbs": 89.2233333333333,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 380.2229
   },
   {
     "description": "Sal, dietético",
@@ -5673,7 +6188,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 0
   },
   {
     "description": "Sal, grosso",
@@ -5684,7 +6200,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 0,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 0
   },
   {
     "description": "Shoyu",
@@ -5695,7 +6212,8 @@
     "carbs": 11.6475,
     "carbUnit": "g",
     "fats": 0.326666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 60.9277498753866
   },
   {
     "description": "Tempero a base de sal",
@@ -5706,7 +6224,8 @@
     "carbs": 2.07333333333334,
     "carbUnit": "g",
     "fats": 0.263333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 21.33
   },
   {
     "description": "Azeitona, preta, conserva",
@@ -5717,7 +6236,8 @@
     "carbs": 5.5445,
     "carbUnit": "g",
     "fats": 20.345,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 194.153847020984
   },
   {
     "description": "Azeitona, verde, conserva",
@@ -5728,7 +6248,8 @@
     "carbs": 4.10175,
     "carbUnit": "g",
     "fats": 14.2156666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 136.93643
   },
   {
     "description": "Chantilly, spray, com gordura vegetal",
@@ -5739,7 +6260,8 @@
     "carbs": 16.8550000666667,
     "carbUnit": "g",
     "fats": 27.2706666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 314.956000266667
   },
   {
     "description": "Leite, de coco",
@@ -5750,7 +6272,8 @@
     "carbs": 2.19459996350605,
     "carbUnit": "g",
     "fats": 18.3643333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 166.160301615546
   },
   {
     "description": "Maionese, tradicional com ovos",
@@ -5761,7 +6284,8 @@
     "carbs": 7.89975,
     "carbUnit": "g",
     "fats": 30.4976666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 302.152677687824
   },
   {
     "description": "Acarajé",
@@ -5772,7 +6296,8 @@
     "carbs": 19.1138333333333,
     "carbUnit": "g",
     "fats": 19.9303333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 289.211666666667
   },
   {
     "description": "Arroz carreteiro",
@@ -5783,7 +6308,8 @@
     "carbs": 11.5848333333333,
     "carbUnit": "g",
     "fats": 7.124,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 153.772
   },
   {
     "description": "Baião de dois, arroz e feijão-de-corda",
@@ -5794,7 +6320,8 @@
     "carbs": 20.41775,
     "carbUnit": "g",
     "fats": 3.228,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 135.681333333333
   },
   {
     "description": "Barreado",
@@ -5805,7 +6332,8 @@
     "carbs": 0.23625,
     "carbUnit": "g",
     "fats": 9.534,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 164.975234047413
   },
   {
     "description": "Bife à cavalo, com contra filé",
@@ -5816,7 +6344,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 21.1466666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 291.229509244959
   },
   {
     "description": "Bolinho de arroz",
@@ -5827,7 +6356,8 @@
     "carbs": 41.68275,
     "carbUnit": "g",
     "fats": 8.29166666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 273.514333333333
   },
   {
     "description": "Camarão à baiana",
@@ -5838,7 +6368,8 @@
     "carbs": 3.17366666666667,
     "carbUnit": "g",
     "fats": 5.96766666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 100.783043004036
   },
   {
     "description": "Charuto, de repolho",
@@ -5849,7 +6380,8 @@
     "carbs": 10.1331666666667,
     "carbUnit": "g",
     "fats": 1.11666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 78.2347292222182
   },
   {
     "description": "Cuscuz, de milho, cozido com sal",
@@ -5860,7 +6392,8 @@
     "carbs": 25.2814166666667,
     "carbUnit": "g",
     "fats": 0.679666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 113.459481666667
   },
   {
     "description": "Cuscuz, paulista",
@@ -5871,7 +6404,8 @@
     "carbs": 22.5136666666667,
     "carbUnit": "g",
     "fats": 4.64833333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 142.123
   },
   {
     "description": "Cuxá, molho",
@@ -5882,7 +6416,8 @@
     "carbs": 5.73891666666667,
     "carbUnit": "g",
     "fats": 3.59266666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 80.0916156365077
   },
   {
     "description": "Dobradinha",
@@ -5893,7 +6428,8 @@
     "carbs": 0,
     "carbUnit": "g",
     "fats": 4.44233333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 124.500200833333
   },
   {
     "description": "Estrogonofe de carne",
@@ -5904,7 +6440,8 @@
     "carbs": 2.97541666666667,
     "carbUnit": "g",
     "fats": 10.803,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 173.141364318013
   },
   {
     "description": "Estrogonofe de frango",
@@ -5915,7 +6452,8 @@
     "carbs": 2.59391666666666,
     "carbUnit": "g",
     "fats": 7.96233333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 156.806103013237
   },
   {
     "description": "Feijão tropeiro mineiro",
@@ -5926,7 +6464,8 @@
     "carbs": 19.5818333333333,
     "carbUnit": "g",
     "fats": 6.79066666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 151.561856830955
   },
   {
     "description": "Feijoada",
@@ -5937,7 +6476,8 @@
     "carbs": 11.6418333333333,
     "carbUnit": "g",
     "fats": 6.47733333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 116.933457311034
   },
   {
     "description": "Frango, com açafrão",
@@ -5948,7 +6488,8 @@
     "carbs": 4.06208333333333,
     "carbUnit": "g",
     "fats": 6.17,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 112.783768841227
   },
   {
     "description": "Macarrão, molho bolognesa",
@@ -5959,7 +6500,8 @@
     "carbs": 22.5223668317795,
     "carbUnit": "g",
     "fats": 0.889666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 119.53177144556
   },
   {
     "description": "Maniçoba",
@@ -5970,7 +6512,8 @@
     "carbs": 3.41933333333333,
     "carbUnit": "g",
     "fats": 8.69933333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 134.222893400987
   },
   {
     "description": "Quibebe",
@@ -5981,7 +6524,8 @@
     "carbs": 6.64408333333332,
     "carbUnit": "g",
     "fats": 2.672,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 86.349230299592
   },
   {
     "description": "Salada, de legumes, com maionese",
@@ -5992,7 +6536,8 @@
     "carbs": 8.92399999999999,
     "carbUnit": "g",
     "fats": 7.039,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 96.1035883984566
   },
   {
     "description": "Salada, de legumes, cozida no vapor",
@@ -6003,7 +6548,8 @@
     "carbs": 7.08908333333334,
     "carbUnit": "g",
     "fats": 0.311666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 35.4081042984724
   },
   {
     "description": "Salpicão, de frango",
@@ -6014,7 +6560,8 @@
     "carbs": 4.56899999999999,
     "carbUnit": "g",
     "fats": 7.84066666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 147.864596134027
   },
   {
     "description": "Sarapatel",
@@ -6025,7 +6572,8 @@
     "carbs": 1.09408333333334,
     "carbUnit": "g",
     "fats": 4.42,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 122.981858212431
   },
   {
     "description": "Tabule",
@@ -6036,7 +6584,8 @@
     "carbs": 10.5810033601125,
     "carbUnit": "g",
     "fats": 1.208,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 57.4534766884806
   },
   {
     "description": "Tacacá",
@@ -6047,7 +6596,8 @@
     "carbs": 3.39,
     "carbUnit": "g",
     "fats": 0.359666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 46.8891771512032
   },
   {
     "description": "Tapioca, com manteiga",
@@ -6058,7 +6608,8 @@
     "carbs": 63.59175,
     "carbUnit": "g",
     "fats": 10.9083333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 347.826556257824
   },
   {
     "description": "Tucupi, com pimenta-de-cheiro",
@@ -6069,7 +6620,8 @@
     "carbs": 4.73774999999999,
     "carbUnit": "g",
     "fats": 0.283666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 27.1837984027266
   },
   {
     "description": "Vaca atolada",
@@ -6080,7 +6632,8 @@
     "carbs": 10.0614166666667,
     "carbUnit": "g",
     "fats": 9.322,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 144.89697968479
   },
   {
     "description": "Vatapá",
@@ -6091,7 +6644,8 @@
     "carbs": 9.74849978415172,
     "carbUnit": "g",
     "fats": 23.2263333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 254.893285724155
   },
   {
     "description": "Virado à paulista",
@@ -6102,7 +6656,8 @@
     "carbs": 14.1090833333333,
     "carbUnit": "g",
     "fats": 25.5906666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 306.94678645132
   },
   {
     "description": "Yakisoba",
@@ -6113,7 +6668,8 @@
     "carbs": 18.2513333333333,
     "carbUnit": "g",
     "fats": 2.607,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 112.802041253408
   },
   {
     "description": "Amendoim, grão, cru",
@@ -6124,7 +6680,8 @@
     "carbs": 20.3135333333333,
     "carbUnit": "g",
     "fats": 43.85,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 544.052655799433
   },
   {
     "description": "Amendoim, torrado, salgado",
@@ -6135,7 +6692,8 @@
     "carbs": 18.702486509641,
     "carbUnit": "g",
     "fats": 53.9633333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 605.781092917019
   },
   {
     "description": "Ervilha, em vagem",
@@ -6146,7 +6704,8 @@
     "carbs": 14.2275833333333,
     "carbUnit": "g",
     "fats": 0.471,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 88.0935819997785
   },
   {
     "description": "Ervilha, enlatada, drenada",
@@ -6157,7 +6716,8 @@
     "carbs": 13.4421739130435,
     "carbUnit": "g",
     "fats": 0.38,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 73.8447043478261
   },
   {
     "description": "Feijão, carioca, cozido",
@@ -6168,7 +6728,8 @@
     "carbs": 13.5910333333333,
     "carbUnit": "g",
     "fats": 0.542333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 76.4240856666667
   },
   {
     "description": "Feijão, carioca, cru",
@@ -6179,7 +6740,8 @@
     "carbs": 61.2214492753623,
     "carbUnit": "g",
     "fats": 1.25666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 329.026736231884
   },
   {
     "description": "Feijão, fradinho, cozido",
@@ -6190,7 +6752,8 @@
     "carbs": 13.4995833333333,
     "carbUnit": "g",
     "fats": 0.644,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 78.0088966666667
   },
   {
     "description": "Feijão, fradinho, cru",
@@ -6201,7 +6764,8 @@
     "carbs": 61.24,
     "carbUnit": "g",
     "fats": 2.365,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 339.164766666667
   },
   {
     "description": "Feijão, jalo, cozido",
@@ -6212,7 +6776,8 @@
     "carbs": 16.49525,
     "carbUnit": "g",
     "fats": 0.512,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 92.73992
   },
   {
     "description": "Feijão, jalo, cru",
@@ -6223,7 +6788,8 @@
     "carbs": 61.4791666666667,
     "carbUnit": "g",
     "fats": 0.946666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 327.905266666667
   },
   {
     "description": "Feijão, preto, cozido",
@@ -6234,7 +6800,8 @@
     "carbs": 14.0051666666667,
     "carbUnit": "g",
     "fats": 0.535666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 77.0272666666667
   },
   {
     "description": "Feijão, preto, cru",
@@ -6245,7 +6812,8 @@
     "carbs": 58.752463768116,
     "carbUnit": "g",
     "fats": 1.24,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 323.565711594203
   },
   {
     "description": "Feijão, rajado, cozido",
@@ -6256,7 +6824,8 @@
     "carbs": 15.2675,
     "carbUnit": "g",
     "fats": 0.4,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 84.7018527334929
   },
   {
     "description": "Feijão, rajado, cru",
@@ -6267,7 +6836,8 @@
     "carbs": 62.9291666666667,
     "carbUnit": "g",
     "fats": 1.17,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 325.844411162734
   },
   {
     "description": "Feijão, rosinha, cozido",
@@ -6278,7 +6848,8 @@
     "carbs": 11.82275,
     "carbUnit": "g",
     "fats": 0.477333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 67.8662287714283
   },
   {
     "description": "Feijão, rosinha, cru",
@@ -6289,7 +6860,8 @@
     "carbs": 62.2233333333333,
     "carbUnit": "g",
     "fats": 1.33,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 336.961911127567
   },
   {
     "description": "Feijão, roxo, cozido",
@@ -6300,7 +6872,8 @@
     "carbs": 12.9081666666667,
     "carbUnit": "g",
     "fats": 0.538333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 76.8933823179006
   },
   {
     "description": "Feijão, roxo, cru",
@@ -6311,7 +6884,8 @@
     "carbs": 59.9866666666667,
     "carbUnit": "g",
     "fats": 1.23666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 331.414977456729
   },
   {
     "description": "Grão-de-bico, cru",
@@ -6322,7 +6896,8 @@
     "carbs": 57.8841666666667,
     "carbUnit": "g",
     "fats": 5.43,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 354.7028765891
   },
   {
     "description": "Guandu, cru",
@@ -6333,7 +6908,8 @@
     "carbs": 64.0004166666667,
     "carbUnit": "g",
     "fats": 2.132,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 344.133651284993
   },
   {
     "description": "Lentilha, cozida",
@@ -6344,7 +6920,8 @@
     "carbs": 16.30225,
     "carbUnit": "g",
     "fats": 0.524666666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 92.6387662522992
   },
   {
     "description": "Lentilha, crua",
@@ -6355,7 +6932,8 @@
     "carbs": 62.0044927536232,
     "carbUnit": "g",
     "fats": 0.77,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 339.141240203553
   },
   {
     "description": "Paçoca, amendoim",
@@ -6366,7 +6944,8 @@
     "carbs": 52.3761666666667,
     "carbUnit": "g",
     "fats": 26.0753333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 486.927086464524
   },
   {
     "description": "Pé-de-moleque, amendoim",
@@ -6377,7 +6956,8 @@
     "carbs": 54.730426574707,
     "carbUnit": "g",
     "fats": 28.0483333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 503.190365839956
   },
   {
     "description": "Soja, farinha",
@@ -6388,7 +6968,8 @@
     "carbs": 38.4398997592926,
     "carbUnit": "g",
     "fats": 14.6333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 403.955845810399
   },
   {
     "description": "Soja, extrato solúvel, natural, fluido",
@@ -6399,7 +6980,8 @@
     "carbs": 4.27526333333334,
     "carbUnit": "g",
     "fats": 1.606,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 39.1048552753508
   },
   {
     "description": "Soja, extrato solúvel, pó",
@@ -6410,7 +6992,8 @@
     "carbs": 28.4828333333333,
     "carbUnit": "g",
     "fats": 26.181,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 458.895729437868
   },
   {
     "description": "Soja, queijo (tofu)",
@@ -6421,7 +7004,8 @@
     "carbs": 2.12682333333333,
     "carbUnit": "g",
     "fats": 3.95333333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 64.4850940738902
   },
   {
     "description": "Tremoço, cru",
@@ -6432,7 +7016,8 @@
     "carbs": 43.7863333333333,
     "carbUnit": "g",
     "fats": 10.342,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 381.278173960129
   },
   {
     "description": "Tremoço, em conserva",
@@ -6443,7 +7028,8 @@
     "carbs": 12.3893333333333,
     "carbUnit": "g",
     "fats": 3.784,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 120.642585344871
   },
   {
     "description": "Amêndoa, torrada, salgada",
@@ -6454,7 +7040,8 @@
     "carbs": 29.54724,
     "carbUnit": "g",
     "fats": 47.3243333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 580.746954556071
   },
   {
     "description": "Castanha-de-caju, torrada, salgada",
@@ -6465,7 +7052,8 @@
     "carbs": 29.134966000557,
     "carbUnit": "g",
     "fats": 46.2796666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 570.167626501619
   },
   {
     "description": "Castanha-do-Brasil, crua",
@@ -6476,7 +7064,8 @@
     "carbs": 15.07865989844,
     "carbUnit": "g",
     "fats": 63.459,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 642.963071681069
   },
   {
     "description": "Coco, cru",
@@ -6487,7 +7076,8 @@
     "carbs": 10.401665876893,
     "carbUnit": "g",
     "fats": 41.9763333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 406.48735310781
   },
   {
     "description": "Coco, verde, cru",
@@ -6498,7 +7088,8 @@
     "carbs": "*",
     "carbUnit": "g",
     "fats": "*",
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": "*"
   },
   {
     "description": "Farinha, de mesocarpo de babaçu, crua",
@@ -6509,7 +7100,8 @@
     "carbs": 79.1730666160584,
     "carbUnit": "g",
     "fats": 0.198,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 328.771400244834
   },
   {
     "description": "Gergelim, semente",
@@ -6520,7 +7112,8 @@
     "carbs": 21.6176659049988,
     "carbUnit": "g",
     "fats": 50.4326666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 583.54671475455
   },
   {
     "description": "Linhaça, semente",
@@ -6531,7 +7124,8 @@
     "carbs": 43.3121994931539,
     "carbUnit": "g",
     "fats": 32.2529333333333,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 495.096113843651
   },
   {
     "description": "Pinhão, cozido",
@@ -6542,7 +7136,8 @@
     "carbs": 43.9176333333333,
     "carbUnit": "g",
     "fats": 0.747,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 174.369902
   },
   {
     "description": "Pupunha, cozida",
@@ -6553,7 +7148,8 @@
     "carbs": 29.5694166666667,
     "carbUnit": "g",
     "fats": 12.7616666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 218.533880876601
   },
   {
     "description": "Noz, crua",
@@ -6564,6 +7160,7 @@
     "carbs": 18.3638661638896,
     "carbUnit": "g",
     "fats": 59.3596666666667,
-    "fatUnit": "g"
+    "fatUnit": "g",
+    "kcals": 620.060019790567
   }
 ]

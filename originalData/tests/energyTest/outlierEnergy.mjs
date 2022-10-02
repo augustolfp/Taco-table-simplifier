@@ -12,7 +12,7 @@ const simplifiedFoodList = foodList.map((food) => {
     carbUnit: food.attributes.carbohydrate?.unit,
     fats: food.attributes.lipid?.qty,
     fatUnit: food.attributes.lipid?.unit,
-    kcals: food.attributes.energy?.kcal,
+    kcals: food.attributes.energy.kcal,
   };
 });
 
