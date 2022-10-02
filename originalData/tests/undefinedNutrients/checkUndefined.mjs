@@ -1,4 +1,4 @@
-import foodList from "../../originalData/foodList.json" assert { type: "json" };
+import foodList from "../../foodList.json" assert { type: "json" };
 import fs from "fs";
 
 const simplifiedFoodList = foodList.map((food) => {
@@ -15,21 +15,21 @@ const simplifiedFoodList = foodList.map((food) => {
   };
 });
 
-let outlierProteins = simplifiedFoodList.filter((food) => {
-  if (typeof food.proteins === "string") return true;
+let undefinedProteins = simplifiedFoodList.filter((food) => {
+  if (!food.proteins) return true;
 });
 
-let outlierCarbs = simplifiedFoodList.filter((food) => {
-  if (typeof food.carbs === "string") return true;
+let undefinedCarbs = simplifiedFoodList.filter((food) => {
+  if (!food.carbs) return true;
 });
 
-let outlierFats = simplifiedFoodList.filter((food) => {
-  if (typeof food.fats === "string") return true;
+let undefinedFats = simplifiedFoodList.filter((food) => {
+  if (!food.fats) return true;
 });
 
 fs.writeFile(
-  "./results/outlierProteins.json",
-  JSON.stringify(outlierProteins),
+  "./results/undefinedProteins.json",
+  JSON.stringify(undefinedProteins),
   (err) => {
     if (err) {
       throw err;
@@ -38,8 +38,8 @@ fs.writeFile(
 );
 
 fs.writeFile(
-  "./results/outlierCarbs.json",
-  JSON.stringify(outlierCarbs),
+  "./results/undefinedCarbs.json",
+  JSON.stringify(undefinedCarbs),
   (err) => {
     if (err) {
       throw err;
@@ -48,8 +48,8 @@ fs.writeFile(
 );
 
 fs.writeFile(
-  "./results/outlierFats.json",
-  JSON.stringify(outlierFats),
+  "./results/undefinedFats.json",
+  JSON.stringify(undefinedFats),
   (err) => {
     if (err) {
       throw err;

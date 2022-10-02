@@ -1,4 +1,4 @@
-import foodList from "../../originalData/foodList.json" assert { type: "json" };
+import foodList from "../../foodList.json" assert { type: "json" };
 import fs from "fs";
 
 const simplifiedFoodList = foodList.map((food) => {
