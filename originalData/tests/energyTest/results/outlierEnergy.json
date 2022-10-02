@@ -1,0 +1,74 @@
+[
+  {
+    "description": "Iogurte, sabor abacaxi",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "*",
+    "proteinUnit": "g",
+    "carbs": "*",
+    "carbUnit": "g",
+    "fats": "*",
+    "fatUnit": "g",
+    "kcals": "*"
+  },
+  {
+    "description": "Leite, de vaca, desnatado, UHT",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "*",
+    "proteinUnit": "g",
+    "carbs": "*",
+    "carbUnit": "g",
+    "fats": "*",
+    "fatUnit": "g",
+    "kcals": "*"
+  },
+  {
+    "description": "Leite, de vaca, integral",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "*",
+    "proteinUnit": "g",
+    "carbs": "*",
+    "carbUnit": "g",
+    "fats": "*",
+    "fatUnit": "g",
+    "kcals": "*"
+  },
+  {
+    "description": "Sal, dietético",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "NA",
+    "proteinUnit": "g",
+    "carbs": "NA",
+    "carbUnit": "g",
+    "fats": "NA",
+    "fatUnit": "g",
+    "kcals": "NA"
+  },
+  {
+    "description": "Sal, grosso",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "NA",
+    "proteinUnit": "g",
+    "carbs": "NA",
+    "carbUnit": "g",
+    "fats": "NA",
+    "fatUnit": "g",
+    "kcals": "NA"
+  },
+  {
+    "description": "Coco, verde, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "*",
+    "proteinUnit": "g",
+    "carbs": "*",
+    "carbUnit": "g",
+    "fats": "*",
+    "fatUnit": "g",
+    "kcals": "*"
+  }
+]
