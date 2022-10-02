@@ -1,0 +1,1299 @@
+[
+  {
+    "description": "Manteiga, sem sal",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 0.395560007095337,
+    "proteinUnit": "g",
+    "fats": 86.0393333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Margarina, com óleo hidrogenado, com sal (65% de lipídeos)",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "Tr",
+    "proteinUnit": "g",
+    "fats": 67.4343333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Margarina, com óleo hidrogenado, sem sal (80% de lipídeos)",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "Tr",
+    "proteinUnit": "g",
+    "fats": 81.7336666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Margarina, com óleo interesterificado, com sal (65%de lipídeos)",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "Tr",
+    "proteinUnit": "g",
+    "fats": 67.2456666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Margarina, com óleo interesterificado, sem sal (65% de lipídeos)",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": "Tr",
+    "proteinUnit": "g",
+    "fats": 67.097,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Abadejo, filé, congelado, assado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 23.525,
+    "proteinUnit": "g",
+    "fats": 1.23766666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Abadejo, filé, congelado,cozido",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 19.3458333333333,
+    "proteinUnit": "g",
+    "fats": 0.942,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Abadejo, filé, congelado, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 13.0833333333333,
+    "proteinUnit": "g",
+    "fats": 0.36,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Abadejo, filé, congelado, grelhado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 27.6104166666667,
+    "proteinUnit": "g",
+    "fats": 1.30233333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Atum, conserva em óleo",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 26.1875,
+    "proteinUnit": "g",
+    "fats": 5.99666666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Atum, fresco, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 25.68,
+    "proteinUnit": "g",
+    "fats": 0.87,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Bacalhau, salgado, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 29.0366666666667,
+    "proteinUnit": "g",
+    "fats": 1.32,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Cação, posta, cozida",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 25.5895833333333,
+    "proteinUnit": "g",
+    "fats": 0.748,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Cação, posta, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 17.8541666666667,
+    "proteinUnit": "g",
+    "fats": 0.786666666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Camarão, Rio Grande, grande, cozido",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 18.9666666666667,
+    "proteinUnit": "g",
+    "fats": 1.00066666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Camarão, Rio Grande, grande, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 9.99166666666667,
+    "proteinUnit": "g",
+    "fats": 0.501,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Caranguejo, cozido",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 18.4791666666667,
+    "proteinUnit": "g",
+    "fats": 0.423,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Corimbatá, assado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 19.8979166666667,
+    "proteinUnit": "g",
+    "fats": 19.5663333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Corimbatá, cozido",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 20.13125,
+    "proteinUnit": "g",
+    "fats": 16.933,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Corvina de água doce, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 18.9166666666667,
+    "proteinUnit": "g",
+    "fats": 2.24333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Corvina do mar, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 18.57,
+    "proteinUnit": "g",
+    "fats": 1.58333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Corvina grande, assada",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 26.7666666666667,
+    "proteinUnit": "g",
+    "fats": 3.57366666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Corvina grande, cozida",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 23.4375,
+    "proteinUnit": "g",
+    "fats": 2.56266666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Dourada de água doce, fresca",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 18.8104166666667,
+    "proteinUnit": "g",
+    "fats": 5.64166666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Lambari, congelado, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 16.8125,
+    "proteinUnit": "g",
+    "fats": 6.54666666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Lambari, congelado, frito",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 28.425,
+    "proteinUnit": "g",
+    "fats": 22.782,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Lambari, fresco,cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 15.6520833333333,
+    "proteinUnit": "g",
+    "fats": 9.39733333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Manjuba, frita",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 30.1395833333333,
+    "proteinUnit": "g",
+    "fats": 24.46,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Merluza, filé, assado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 26.6041666666667,
+    "proteinUnit": "g",
+    "fats": 0.921333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Merluza, filé, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 16.6066666666667,
+    "proteinUnit": "g",
+    "fats": 2.02,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Merluza, filé, frito",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 26.9291666666667,
+    "proteinUnit": "g",
+    "fats": 8.49666666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Pescada, branca, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 16.2633333333333,
+    "proteinUnit": "g",
+    "fats": 4.59333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Pescada, branca, frita",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 27.35625,
+    "proteinUnit": "g",
+    "fats": 11.777,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Pescada, filé, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 16.65,
+    "proteinUnit": "g",
+    "fats": 4.00333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Pescada, filé, frito",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 28.5875,
+    "proteinUnit": "g",
+    "fats": 3.57,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Pescadinha, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 15.4791666666667,
+    "proteinUnit": "g",
+    "fats": 1.14333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Pintado, assado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 36.45,
+    "proteinUnit": "g",
+    "fats": 3.982,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Pintado, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 18.5566666666667,
+    "proteinUnit": "g",
+    "fats": 1.31333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Pintado, grelhado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 30.7958333333333,
+    "proteinUnit": "g",
+    "fats": 2.294,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Porquinho, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 20.49,
+    "proteinUnit": "g",
+    "fats": 0.613333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Salmão, filé, com pele, fresco,  grelhado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 23.91875,
+    "proteinUnit": "g",
+    "fats": 14.0353333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Salmão, sem pele, fresco, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 19.2520833333333,
+    "proteinUnit": "g",
+    "fats": 9.709,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Salmão, sem pele, fresco, grelhado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 26.1416666666667,
+    "proteinUnit": "g",
+    "fats": 14.5323333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Sardinha, assada",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 32.1791666666667,
+    "proteinUnit": "g",
+    "fats": 2.98733333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Sardinha, conserva em óleo",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 15.9395833333333,
+    "proteinUnit": "g",
+    "fats": 24.0486666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Sardinha, frita",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 33.3833333333333,
+    "proteinUnit": "g",
+    "fats": 12.6933333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Sardinha, inteira, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 21.0766666666667,
+    "proteinUnit": "g",
+    "fats": 2.65,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, acém, moído, cozido",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 26.6866666666667,
+    "proteinUnit": "g",
+    "fats": 10.9166666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, acém, moído, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 19.42,
+    "proteinUnit": "g",
+    "fats": 5.94666666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, acém, sem gordura, cozido",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 27.27,
+    "proteinUnit": "g",
+    "fats": 10.8833333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, acém, sem gordura, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 20.8166666666667,
+    "proteinUnit": "g",
+    "fats": 6.11333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, bucho, cozido",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 21.64,
+    "proteinUnit": "g",
+    "fats": 4.50333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, bucho, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 20.53,
+    "proteinUnit": "g",
+    "fats": 5.50333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, capa de contra-filé, com gordura, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 19.1966666666667,
+    "proteinUnit": "g",
+    "fats": 14.96,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, capa de contra-filé, com gordura, grelhada",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 30.6866666666667,
+    "proteinUnit": "g",
+    "fats": 20.03,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, capa de contra-filé, sem gordura, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 21.54,
+    "proteinUnit": "g",
+    "fats": 4.33333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, charque, cozido",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 36.3645833333333,
+    "proteinUnit": "g",
+    "fats": 11.9183333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, charque, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 22.7145833333333,
+    "proteinUnit": "g",
+    "fats": 16.837,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, contra-filé de costela, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 19.8,
+    "proteinUnit": "g",
+    "fats": 13.07,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, contra-filé de costela, grelhado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 29.88,
+    "proteinUnit": "g",
+    "fats": 16.3333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, contra-filé, com gordura, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 21.15,
+    "proteinUnit": "g",
+    "fats": 12.81,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, contra-filé, com gordura, grelhado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 32.3966666666667,
+    "proteinUnit": "g",
+    "fats": 15.49,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, contra-filé, sem gordura, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 23.9966666666667,
+    "proteinUnit": "g",
+    "fats": 6.00333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, contra-filé, sem gordura, grelhado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 35.8833333333333,
+    "proteinUnit": "g",
+    "fats": 4.48666666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, costela, assada",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 28.8066666666667,
+    "proteinUnit": "g",
+    "fats": 27.72,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, costela, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 16.7066666666667,
+    "proteinUnit": "g",
+    "fats": 31.75,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, coxão duro, sem gordura, cozido",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 31.88,
+    "proteinUnit": "g",
+    "fats": 8.92333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, coxão duro, sem gordura, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 21.5133333333333,
+    "proteinUnit": "g",
+    "fats": 6.22,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, coxão mole, sem gordura, cozido",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 32.3833333333333,
+    "proteinUnit": "g",
+    "fats": 8.91333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, coxão mole, sem gordura, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 21.23,
+    "proteinUnit": "g",
+    "fats": 8.69333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, cupim, assado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 28.63125,
+    "proteinUnit": "g",
+    "fats": 23.0426666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, cupim, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 19.5366666666667,
+    "proteinUnit": "g",
+    "fats": 15.2966666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, filé mingnon, sem gordura, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 21.6,
+    "proteinUnit": "g",
+    "fats": 5.61333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, filé mingnon, sem gordura, grelhado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 32.8,
+    "proteinUnit": "g",
+    "fats": 8.83,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, flanco, sem gordura, cozido",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 29.3766666666667,
+    "proteinUnit": "g",
+    "fats": 7.77,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, flanco, sem gordura, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 19.9966666666667,
+    "proteinUnit": "g",
+    "fats": 6.21666666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, fraldinha, com gordura, cozida",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 24.24,
+    "proteinUnit": "g",
+    "fats": 26.0466666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, fraldinha, com gordura, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 17.5833333333333,
+    "proteinUnit": "g",
+    "fats": 16.1466666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, lagarto, cozido",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 32.8633333333333,
+    "proteinUnit": "g",
+    "fats": 9.10666666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, lagarto, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 20.5433333333333,
+    "proteinUnit": "g",
+    "fats": 5.22666666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, língua, cozida",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 21.3666666666667,
+    "proteinUnit": "g",
+    "fats": 24.7966666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, língua, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 17.09,
+    "proteinUnit": "g",
+    "fats": 15.7733333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, maminha, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 20.9333333333333,
+    "proteinUnit": "g",
+    "fats": 7.02666666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, maminha, grelhada",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 30.7354166666667,
+    "proteinUnit": "g",
+    "fats": 2.42233333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, miolo de alcatra, sem gordura, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 21.61,
+    "proteinUnit": "g",
+    "fats": 7.82666666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, miolo de alcatra, sem gordura, grelhado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 31.93,
+    "proteinUnit": "g",
+    "fats": 11.6433333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, músculo, sem gordura, cozido",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 31.2333333333333,
+    "proteinUnit": "g",
+    "fats": 6.7,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, músculo, sem gordura, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 21.56,
+    "proteinUnit": "g",
+    "fats": 5.49,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, paleta, com gordura, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 21.41,
+    "proteinUnit": "g",
+    "fats": 7.46,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, paleta, sem gordura, cozida",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 29.72,
+    "proteinUnit": "g",
+    "fats": 7.4,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, paleta, sem gordura, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 21.03,
+    "proteinUnit": "g",
+    "fats": 5.67,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, patinho, sem gordura, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 21.7233333333333,
+    "proteinUnit": "g",
+    "fats": 4.51333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, patinho, sem gordura, grelhado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 35.9,
+    "proteinUnit": "g",
+    "fats": 7.31333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, peito, sem gordura, cozido",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 22.2466666666667,
+    "proteinUnit": "g",
+    "fats": 26.9933333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, peito, sem gordura, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 17.5566666666667,
+    "proteinUnit": "g",
+    "fats": 20.4333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, picanha, com gordura, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 18.8233333333333,
+    "proteinUnit": "g",
+    "fats": 14.69,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, picanha, com gordura, grelhada",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 26.4208333333333,
+    "proteinUnit": "g",
+    "fats": 19.5066666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, picanha, sem gordura, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 21.25,
+    "proteinUnit": "g",
+    "fats": 4.74333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, picanha, sem gordura, grelhada",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 31.9066666666667,
+    "proteinUnit": "g",
+    "fats": 11.3333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, seca, cozida",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 26.93125,
+    "proteinUnit": "g",
+    "fats": 21.9293333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Carne, bovina, seca, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 19.6583333333333,
+    "proteinUnit": "g",
+    "fats": 25.3666666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Frango, asa, com pele, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 18.1,
+    "proteinUnit": "g",
+    "fats": 15.0666666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Frango, caipira, inteiro, com pele, cozido",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 23.8833333333333,
+    "proteinUnit": "g",
+    "fats": 15.6156666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Frango, caipira, inteiro, sem pele, cozido",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 29.575,
+    "proteinUnit": "g",
+    "fats": 7.70233333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Frango, coração, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 12.5833333333333,
+    "proteinUnit": "g",
+    "fats": 18.6,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Frango, coxa, com pele, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 17.0933333333333,
+    "proteinUnit": "g",
+    "fats": 9.81,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Frango, coxa, sem pele, cozida",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 26.8583333333333,
+    "proteinUnit": "g",
+    "fats": 5.84733333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Frango, inteiro, com pele, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 16.4433333333333,
+    "proteinUnit": "g",
+    "fats": 17.3066666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Frango, inteiro, sem pele, assado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 28.025,
+    "proteinUnit": "g",
+    "fats": 7.50233333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Frango, inteiro, sem pele, cozido",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 24.9854166666667,
+    "proteinUnit": "g",
+    "fats": 7.06233333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Frango, inteiro, sem pele, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 20.5866666666667,
+    "proteinUnit": "g",
+    "fats": 4.56666666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Frango, peito, com pele, assado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 33.4166666666667,
+    "proteinUnit": "g",
+    "fats": 7.649,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Frango, peito, com pele, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 20.78,
+    "proteinUnit": "g",
+    "fats": 6.73333333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Frango, peito, sem pele, cozido",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 31.46875,
+    "proteinUnit": "g",
+    "fats": 3.16,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Frango, peito, sem pele, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 21.5266666666667,
+    "proteinUnit": "g",
+    "fats": 3.02,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Frango, peito, sem pele, grelhado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 32.0333333333333,
+    "proteinUnit": "g",
+    "fats": 2.48366666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Frango, sobrecoxa, com pele, assada",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 28.7020833333333,
+    "proteinUnit": "g",
+    "fats": 15.1936666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Frango, sobrecoxa, com pele, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 15.46,
+    "proteinUnit": "g",
+    "fats": 20.9,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Frango, sobrecoxa, sem pele, assada",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 29.175,
+    "proteinUnit": "g",
+    "fats": 12.0073333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Frango, sobrecoxa, sem pele, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 17.57,
+    "proteinUnit": "g",
+    "fats": 9.62,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Lingüiça, frango, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 14.2395833333333,
+    "proteinUnit": "g",
+    "fats": 17.4396666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Lingüiça, frango, frita",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 18.3166666666667,
+    "proteinUnit": "g",
+    "fats": 18.542,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Lingüiça, frango, grelhada",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 18.1895833333333,
+    "proteinUnit": "g",
+    "fats": 18.4023333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Lingüiça, porco, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 16.0645833333333,
+    "proteinUnit": "g",
+    "fats": 17.584,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Lingüiça, porco, frita",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 20.4520833333333,
+    "proteinUnit": "g",
+    "fats": 21.3096666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Lingüiça, porco, grelhada",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 23.16875,
+    "proteinUnit": "g",
+    "fats": 21.9023333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Peru, congelado, assado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 26.2020833333333,
+    "proteinUnit": "g",
+    "fats": 5.675,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Peru, congelado, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 18.0833333333333,
+    "proteinUnit": "g",
+    "fats": 1.83,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Porco, bisteca, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 21.5,
+    "proteinUnit": "g",
+    "fats": 8.01666666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Porco, bisteca, frita",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 33.7479166666667,
+    "proteinUnit": "g",
+    "fats": 18.5216666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Porco, bisteca, grelhada",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 28.8895833333333,
+    "proteinUnit": "g",
+    "fats": 17.3753333333333,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Porco, costela, assada",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 30.2229166666667,
+    "proteinUnit": "g",
+    "fats": 30.279,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Porco, costela, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 18,
+    "proteinUnit": "g",
+    "fats": 19.8166666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Porco, lombo, assado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 35.725,
+    "proteinUnit": "g",
+    "fats": 6.39566666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Porco, lombo, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 22.6041666666667,
+    "proteinUnit": "g",
+    "fats": 8.77,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Porco, orelha, salgada, crua",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 18.5208333333333,
+    "proteinUnit": "g",
+    "fats": 19.89,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Porco, pernil, assado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 32.1333333333333,
+    "proteinUnit": "g",
+    "fats": 13.8636666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Porco, pernil, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 20.125,
+    "proteinUnit": "g",
+    "fats": 11.1,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Porco, rabo, salgado, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 15.58125,
+    "proteinUnit": "g",
+    "fats": 34.466,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Toucinho, cru",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 11.4791666666667,
+    "proteinUnit": "g",
+    "fats": 60.2566666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Toucinho, frito",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 27.2833333333333,
+    "proteinUnit": "g",
+    "fats": 64.3086666666667,
+    "fatUnit": "g"
+  },
+  { "description": "Cana, aguardente 1", "baseQty": 100, "baseUnit": "g" },
+  {
+    "description": "Ovo, de galinha, clara, cozida/10minutos",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 13.4479166666667,
+    "proteinUnit": "g",
+    "fats": 0.089,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Bife à cavalo, com contra filé",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 23.6604166666667,
+    "proteinUnit": "g",
+    "fats": 21.1466666666667,
+    "fatUnit": "g"
+  },
+  {
+    "description": "Dobradinha",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 19.7729166666667,
+    "proteinUnit": "g",
+    "fats": 4.44233333333333,
+    "fatUnit": "g"
+  }
+]

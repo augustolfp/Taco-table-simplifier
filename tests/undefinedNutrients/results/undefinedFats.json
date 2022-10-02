@@ -1,0 +1,96 @@
+[
+  {
+    "description": "Goiaba, doce em pasta",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "proteins": 0.579710144927536,
+    "proteinUnit": "g",
+    "carbs": 74.1236231884058,
+    "carbUnit": "g"
+  },
+  {
+    "description": "Bebida isotônica, sabores variados",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "carbs": 6.40333333333334,
+    "carbUnit": "g"
+  },
+  { "description": "Cana, aguardente 1", "baseQty": 100, "baseUnit": "g" },
+  {
+    "description": "Chá, erva-doce, infusão 5%",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "carbs": 0.391333333333321,
+    "carbUnit": "g"
+  },
+  {
+    "description": "Chá, preto, infusão 5%",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "carbs": 0.629666666666665,
+    "carbUnit": "g"
+  },
+  {
+    "description": "Coco, água de",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "carbs": 5.28466666666667,
+    "carbUnit": "g"
+  },
+  {
+    "description": "Refrigerante, tipo água tônica",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "carbs": 7.95333333333334,
+    "carbUnit": "g"
+  },
+  {
+    "description": "Refrigerante, tipo cola",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "carbs": 8.66000000000001,
+    "carbUnit": "g"
+  },
+  {
+    "description": "Refrigerante, tipo guaraná",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "carbs": 10,
+    "carbUnit": "g"
+  },
+  {
+    "description": "Refrigerante, tipo laranja",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "carbs": 11.79,
+    "carbUnit": "g"
+  },
+  {
+    "description": "Refrigerante, tipo limão",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "carbs": 10.2633333333333,
+    "carbUnit": "g"
+  },
+  {
+    "description": "Glicose de milho",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "carbs": 79.38,
+    "carbUnit": "g"
+  },
+  {
+    "description": "Mel, de abelha",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "carbs": 84.0333333333333,
+    "carbUnit": "g"
+  },
+  {
+    "description": "Melado",
+    "baseQty": 100,
+    "baseUnit": "g",
+    "carbs": 76.6166666666667,
+    "carbUnit": "g"
+  }
+]
